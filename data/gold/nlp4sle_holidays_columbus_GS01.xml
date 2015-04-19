@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NLP4SLE_Specification_05.dtd>
+<TEXT><![CDATA[
+
+Columbus Day
+Second Monday in October
+
+Columbus Day is a legal federal holiday that commemorates the first voyage of Christopher Columbus, who sailed west from Spain in 1492 and reached the islands of present day Bahamas. This region was little known to Europeans, although it had been explored and inhabited by Native peoples for over 30,000 years. 
+
+Columbus mistakenly thought that he had found a new route to the East, which at the time meant China, Japan, India, and the Indies. So he called the islands the “West Indies,” and the indigenous inhabitants “Indians.” 
+
+Columbus was not the first European to set foot on this land— Scandinavian Vikings, Irish missionaries, and others may have been there as early as 1,000 AD. Nor did Columbus “discover America” as many American schoolchildren were taught. Yet, the first voyage of Columbus was historically significant for a number of reasons. It confirmed that there were rich lands across the Atlantic Ocean, and it inspired a wave of exploration and colonization of the Americas—including land that eventually became the United States. For the approximately 10 million Indians, spread throughout the Americas at the time, the arrival of Columbus was significant in a different way—it changed the course of their lives, and eventually led to their near extinction and the decimation of their cultures. 
+
+In the 15th century, European merchants were looking for a new and shorter trade route to the East, where they could get spices, gems, gold, and other “ exotic” goods. The main route was overland, but it was long and dangerous. Portuguese sailors had explored an ocean route, sailing down the coast of Africa, around the Cape of Good Hope, on the southern tip of Africa, then across the Indian Ocean to Asia. But this too was a very long and treacherous journey. 
+
+Christopher Columbus (or Cristóbal Colón, as he called himself) was an Italian seaman, living in Portugal. He believed that Japan was only 3,000 miles west of Europe, and China and India were not far beyond. Educated men of the time knew that Columbus had underestimated the size of the Atlantic Ocean, and the world. Still, Columbus insisted that by sailing west, he would find a shorter route to the East. He would then set up a major trading port for the exchange of goods between east and west. All he needed were ships and money. He asked the kings of Portugal, England, and France for financial support, but all refused. Columbus was a skilled seaman and navigator, but no one wanted to invest in such a fool-hearty venture. 
+
+Eventually, Columbus convinced Queen Isabella of Spain. She and King Ferdinand agreed to all his requests. Finally, on August 3, 1492, he and ninety men set sail from Spain on the ship, the Santa Maria. Two other ships, the Niña and the Pinta, accompanied him. They sailed west. Two long months went by. His men became tired and sick, and threatened to turn the ships back. Columbus encouraged them, certain that they were close to Asia. Finally, on October 11th they sighted land. The next morning they landed on a lush island, and Columbus thought he had succeeded in his mission. He was not aware of his true location. On the island he encountered the native inhabitants, the Arawak. From them he learned that the island was named “Guanahani.” Columbus christened it “San Salvador” and claimed it immediately for Spain. A few days later, he landed on an island near present-day Cuba, which he thought was part of China. 
+
+The Arawak were helpful to Columbus and his crew at first, but their feelings quickly changed when Columbus captured some of their members to take back to the Queen. 
+
+When he returned to Spain on March 15, 1493, Isabella and Ferdinand received him with great celebration and honor. He was granted the title of “Admiral of All the Ocean Seas,” was given funding for more voyages, and ordered to colonize the new region for Spain. Columbus made a number of voyages to the Americas, and expanded Spain’s empire, yet he never learned the region’s true identity. At his death, he still believed he had found a route to Asia. 
+
+The Making of a Holiday 
+
+Few celebrations marked the voyage of Columbus until hundreds of years later. In 1792, a ceremony was held in New York honoring Columbus, and a monument was dedicated to him. Soon afterward, the city of Washington was officially named the District of Columbia, and made the capital of the United States. In the next century, statues, streets, rivers, and cities were named for Columbus. The Columbian Exposition in Chicago in 1892 displayed replicas of Columbus’s three ships. 
+
+Columbus Day became a holiday, due in part to the efforts of Italians in New York City and elsewhere. Out of pride for their “native son,” a group of New York Italians organized the first celebration of “The Discovery of America” on October 12, 1866. In following years, Italians in other cities held similar events with banquets, parades, and dances. In 1869, San Francisco Italians celebrated October 12, and called it “Columbus Day.” President Franklin Roosevelt officially proclaimed October 12 as Columbus Day in 1937. Now, it is celebrated on the second Monday in October, allowing for a long holiday weekend. 
+
+In recent decades Columbus Day has generated much controversy. Native American groups and others began to speak out against the claim that Columbus had discovered America. They proposed that Native Americans, not Columbus, should be recognized as the first and true discoverers of America. They felt that in the spirit of reconciliation the day should celebrate Native Americans. People petitioned their state and local governments to establish an official Native American Day holiday, or to replace Columbus Day with Native American Day. As a result, in schools across the country, Columbus Day curricula began to include information on Native Americans, and on the impact of European contact. Some states now call the holiday by the dual name, Columbus Day/Native American Day. Other states have established a separate Native American Day holiday. The state of South Dakota has officially replaced Columbus Day with Native American Day in recognition of indigenous people.
+]]></TEXT>
+<TAGS>
+<entity_mention id="em0" spans="2~14" text="Columbus Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em1" spans="15~39" text="Second Monday in October" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em2" spans="41~54" text="Columbus Day " TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em3" spans="119~139" text="Christopher Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em4" spans="354~362" text="Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em5" spans="574~582" text="Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em6" spans="739~747" text="Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em7" spans="821~846" text="first voyage of Columbus " TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em8" spans="103~140" text="first voyage of Christopher Columbus," TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em9" spans="993~1037" text="exploration and colonization of the Americas" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em10" spans="1196~1204" text="Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em11" spans="1128~1135" text="Indians" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em12" spans="561~573" text="“Indians.”  " TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em13" spans="1437~1448" text="trade route" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em14" spans="1539~1544" text="route" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em15" spans="1826~1848" text=" Christopher Columbus " TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em16" spans="2070~2078" text="Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em17" spans="2152~2160" text="Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em18" spans="2454~2462" text="Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em19" spans="2572~2580" text="Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em20" spans="2740~2744" text="ship" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em21" spans="2750~2761" text="Santa Maria" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em22" spans="2773~2778" text="ships" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em23" spans="2784~2802" text="Niña and the Pinta" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em24" spans="2934~2942" text="Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em25" spans="3215~3233" text="native inhabitants" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em26" spans="3307~3315" text="Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em27" spans="3239~3245" text="Arawak" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em28" spans="3489~3495" text="Arawak" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em29" spans="3584~3592" text="Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em30" spans="2591~2614" text="Queen Isabella of Spain" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em31" spans="2624~2639" text="King Ferdinand " TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em32" spans="3697~3720" text=" Isabella and Ferdinand" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em33" spans="3908~3913" text="Spain" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em34" spans="3956~3964" text="Americas" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em35" spans="3979~3986" text="Spain’s" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em36" spans="4111~4132" text=" Making of a Holiday " TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em37" spans="4172~4180" text="Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em38" spans="4262~4270" text="Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em39" spans="4223~4231" text="ceremony" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em40" spans="4612~4626" text=" Columbus Day " TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em41" spans="4795~4842" text="first celebration of “The Discovery of America”" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em42" spans="4674~4682" text="Italians" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em43" spans="4763~4780" text="New York Italians" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em44" spans="4884~4892" text="Italians" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em45" spans="4974~4996" text="San Francisco Italians" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em46" spans="5034~5049" text="“Columbus Day.”" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em47" spans="5101~5112" text="October 12 " TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em48" spans="5115~5128" text="Columbus Day " TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em49" spans="5249~5261" text="Columbus Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em50" spans="5294~5317" text="Native American groups " TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em51" spans="5370~5378" text="Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em52" spans="5394~5401" text="America" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em53" spans="5421~5439" text=" Native Americans," TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em54" spans="5444~5452" text="Columbus" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em55" spans="5512~5519" text="America" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em56" spans="5592~5609" text=" Native Americans" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em57" spans="5687~5715" text=" Native American Day holiday" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em58" spans="5731~5744" text="Columbus Day " TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em59" spans="5749~5769" text="Native American Day." TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em60" spans="5813~5827" text=" Columbus Day " TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em61" spans="5869~5885" text="Native Americans" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em63" spans="5976~6010" text=" Columbus Day/Native American Day." TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em64" spans="6052~6079" text="Native American Day holiday" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em65" spans="6130~6144" text=" Columbus Day " TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em66" spans="6149~6168" text="Native American Day" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em67" spans="6187~6204" text="indigenous people" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em68" spans="1159~1167" text="Americas" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad0" spans="156~168" text=" from Spain " TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad1" spans="167~175" text=" in 1492" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad2" spans="1361~1382" text=" In the 15th century," TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad5" spans="3669~3678" text=" to Spain" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad6" spans="3679~3696" text="on March 15, 1493" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad7" spans="4187~4211" text="hundreds of years later." TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad8" spans="4212~4219" text="In 1792" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad9" spans="4240~4252" text=" in New York" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad10" spans="4843~4862" text="on October 12, 1866" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad11" spans="4682~4700" text=" in New York City " TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad12" spans="4862~4883" text=". In following years," TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad13" spans="4966~4972" text="n 1869" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad14" spans="5127~5136" text=" in 1937." TYPE="When" META_TYPE="" comment="" />
+<link_adverbial_to_entity id="la0" fromID="ad0" fromText=" from Spain " toID="em8" toText="first voyage of Christopher Columbus," comment="" />
+<link_adverbial_to_entity id="la1" fromID="ad1" fromText=" in 1492" toID="em8" toText="first voyage of Christopher Columbus," comment="" />
+<link_adverbial_to_entity id="la2" fromID="ad2" fromText=" In the 15th century," toID="em13" toText="trade route" comment="" />
+<link_adverbial_to_entity id="la7" fromID="ad7" fromText="hundreds of years later." toID="em39" toText="ceremony" comment="" />
+<link_adverbial_to_entity id="la8" fromID="ad8" fromText="In 1792" toID="em44" toText="Italians" comment="" />
+<link_adverbial_to_entity id="la9" fromID="ad9" fromText=" in New York" toID="em39" toText="ceremony" comment="" />
+<link_adverbial_to_entity id="la10" fromID="ad10" fromText="on October 12, 1866" toID="em42" toText="Italians" comment="" />
+<link_adverbial_to_entity id="la11" fromID="ad11" fromText=" in New York City " toID="em41" toText="first celebration of “The Discovery of America”" comment="" />
+<link_adverbial_to_entity id="la12" fromID="ad12" fromText=". In following years," toID="em41" toText="first celebration of “The Discovery of America”" comment="" />
+<link_adverbial_to_entity id="la13" fromID="ad13" fromText="n 1869" toID="em46" toText="“Columbus Day.”" comment="" />
+<link_adverbial_to_entity id="la14" fromID="ad14" fromText=" in 1937." toID="em48" toText="Columbus Day " comment="" />
+<entity_definition id="ed0" spans="57~139" text="a legal federal holiday that commemorates the first voyage of Christopher Columbus" TYPE="Predicative" comment="" />
+<entity_definition id="ed1" spans="141~222" text="who sailed west from Spain in 1492 and reached the islands of present day Bahamas" TYPE="Relative" comment="" />
+<entity_definition id="ed2" spans="1038~1094" text="including land that eventually became the United States." TYPE="Appositive" comment="" />
+<entity_definition id="ed3" spans="1849~1890" text="or Cristóbal Colón, as he called himself)" TYPE="Appositive" comment="" />
+<entity_definition id="ed4" spans="1896~1912" text="n Italian seaman" TYPE="Predicative" comment="" />
+<entity_definition id="ed5" spans="2467~2497" text="a skilled seaman and navigator" TYPE="Predicative" comment="" />
+<entity_definition id="ed6" spans="2740~2744" text="ship" TYPE="Appositive" comment="" />
+<entity_definition id="ed7" spans="2773~2778" text="ships" TYPE="Appositive" comment="" />
+<link_definition_to_entity id="ld0" fromID="ed0" fromText="a legal federal holiday that commemorates the first voyage of Christopher Columbus" toID="em2" toText="Columbus Day " comment="" />
+<link_definition_to_entity id="ld1" fromID="ed1" fromText="who sailed west from Spain in 1492 and reached the islands of present day Bahamas" toID="em3" toText="Christopher Columbus" comment="" />
+<link_definition_to_entity id="ld2" fromID="ed2" fromText="including land that eventually became the United States." toID="em9" toText="exploration and colonization of the Americas" comment="" />
+<link_definition_to_entity id="ld3" fromID="ed3" fromText="or Cristóbal Colón, as he called himself)" toID="em3" toText="Christopher Columbus" comment="" />
+<link_definition_to_entity id="ld4" fromID="ed4" fromText="n Italian seaman" toID="em15" toText=" Christopher Columbus " comment="" />
+<link_definition_to_entity id="ld5" fromID="ed5" fromText="a skilled seaman and navigator" toID="em18" toText="Columbus" comment="" />
+<link_definition_to_entity id="ld6" fromID="ed6" fromText="ship" toID="em21" toText="Santa Maria" comment="" />
+<link_definition_to_entity id="ld7" fromID="ed7" fromText="ships" toID="em23" toText="Niña and the Pinta" comment="" />
+</TAGS>
+</NLP4SLE_Specification_05.dtd>

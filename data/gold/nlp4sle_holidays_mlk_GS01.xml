@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NLP4SLE_Specification_05.dtd>
+<TEXT><![CDATA[
+
+Martin Luther King Day 
+Third Monday in January
+
+Martin Luther King Day honors the life and legacy of one of the visionary leaders of the Civil Rights Movement and recipient of the 1964 Nobel Prize for Peace. 
+
+At a young age Martin Luther King, Jr. showed strong promise, skipping the 9th and 12th grades and entering Morehouse College at the age of 15. His beliefs in equality and brotherly love developed early as he listened to the sermons of his father and grandfather, both ministers. 
+
+In late 1955, Martin Luther King, Jr. received his doctorate degree in theology, and moved to Montgomery, Alabama, with his wife, Coretta Scott King, to preach at a Baptist church. 
+
+There, as in many southern states, he witnessed the indignities suffered by African Americans as a result of racism, discrimination, and unjust laws. One law required all black passengers to ride in the back of public buses and to give up their seats to white passengers when the front of the bus was full. Dr. King knew that this law violated the rights of every African-American. 
+
+On December 1, 1955, a courageous black passenger, Rosa Parks, was arrested and jailed for refusing to give up her seat to a white man. In response to the arrest, black leaders organized a boycott of the public buses in the city of Montgomery. Dr. King was asked to lead the protest. Thousands of people, black and white, refused to ride the bus; instead they formed carpools and they walked. Dr. King urged people to demonstrate peacefully and not resort to violence. Nonetheless, the demonstrators and their supporters were constantly threatened and attacked by those who did not want the system of inequality to change. Many of the demonstrators were arrested and jailed. Dr. King’s home was bombed, but fortunately, his wife and children were not injured. 
+
+Despite the violence, the boycott continued, and the bus company suffered great financial loss. Finally after 381 days the boycott of the Montgomery bus system was successful. The Supreme Court declared the state of Alabama’s segregation law unconstitutional. Rosa Parks, the woman whose small act of protest inspired the bus boycott, was later named the “Mother of the Civil Rights Movement.” 
+
+The segregation of buses was just one of the many forms of injustice to African Americans. Schools were also segregated throughout the south, and black citizens were denied equal housing, equal pay, job opportunities, and fair voting rights. Service in many hotels and restaurants was also denied. 
+
+The bus boycott brought international attention to these inequities and to the leadership of Dr. King. The continuing struggle for justice ultimately led to the Civil Rights Movement. Dr. King was at the forefront of this movement, and became seen worldwide as a symbol and voice for the cause of African Americans. 
+
+In 1957, Dr. King and other ministers founded the Southern Christian Leadership Conference to advance the non-violent struggle against racism. In the years that followed, Dr. King led many non-violent demonstrations. He had studied the teachings of Mahatma Gandhi and believed strongly in the power of non-violent protest. Some black leaders and other citizens vehemently disagreed with this philosophy. But King continued to remind his followers that their fight would be victorious if they did not resort to bloodshed. During the tumultuous years of the Civil Rights Movement, Dr. King was jailed many times. From a jail in Birmingham, Alabama, he wrote the famous words, “Injustice anywhere is a threat to justice everywhere.” 
+
+One of the key events of the Civil Rights Movement was the March on Washington on August 23, 1963. A crowd of more than 250,000 people gathered in Washington, D.C. and, led by Dr. King they marched to the Capitol Building to support the passing of laws that guaranteed equal civil rights to every American citizen. On the steps of the Lincoln Memorial that day, Dr. King delivered one of his most powerful and eloquent speeches, entitled “I Have a Dream.” The March on Washington was one of the largest gatherings of people that the nation’s capital had ever seen...and no violence occurred. The following year, in 1964, Dr. King was awarded the Nobel Peace Prize for leading nonviolent demonstrations.
+
+That same year the Civil Rights Act of 1964 was passed, calling for equal opportunity in employment and education. Martin Luther King, Jr. and thousands of others now knew that they had not struggled in vain. Yet there was still much work ahead to ensure that new laws were enforced, and other inequities abolished. 
+
+In the years that followed, Dr. King helped champion many legislative reforms, including the Voting Rights Act of 1965, which guaranteed black citizens the right to safely register and vote. That year a record number of black voters went to the polls. 
+
+On April 4, 1968, Martin Luther King, Jr. was assassinated while supporting a workers’ strike in Memphis, Tennessee. He was just 39 years old. All people who had worked so hard for peace and civil rights were shocked and angry. The world grieved the loss of this great man of peace. Martin Luther King’s death did not slow the Civil Rights Movement. In 1969 Coretta Scott King founded the Martin Luther King, Jr. Center for Non-violent Social Change. She passed away in January of 2006, after working throughout her life to keep her husband’s dream alive. Today people continue to work for social justice. 
+
+The Making of a Holiday 
+
+Throughout the 1980s, controversy surrounded the idea of a Martin Luther King Day. Dr. King’s widow, Coretta Scott King, along with congressional leaders and citizens had petitioned the President to make January 15, Martin Luther King Jr.’s birthday, a legal holiday. Many states were already observing the day. However, some people did not want to have any holiday recognizing Dr. King. Others wanted the holiday on the day he was assassinated. Finally, in 1986, President Ronald Reagan declared the third Monday in January a federal holiday in honor of Dr. Martin Luther King, Jr. On Monday, January 20, 1986, people across the country celebrated the first official Martin Luther King Day, the only federal holiday to commemorate an African-American. 
+
+Now, every year, there are quiet memorial services, as well as elaborate ceremonies and public forums to honor Dr. King and his dream, and to discuss issues of social justice. Schools at all levels offer courses, curricula, and events to teach about racism, equality, and peace. Religious leaders give special sermons extolling Dr. King’s lifelong work for peace. Radio and television broadcasts feature songs, speeches, and special programs that tell the history of the Civil Rights Movement and give highlights of Dr. King’s life and times.
+]]></TEXT>
+<TAGS>
+<entity_mention id="em0" spans="2~24" text="Martin Luther King Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em1" spans="26~49" text="Third Monday in January" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em3" spans="51~73" text="Martin Luther King Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em4" spans="228~251" text="Martin Luther King, Jr." TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em5" spans="509~532" text="Martin Luther King, Jr." TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em6" spans="985~993" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em7" spans="1306~1314" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em8" spans="1455~1463" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em9" spans="1737~1745" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em10" spans="2704~2712" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em11" spans="2847~2855" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em12" spans="3009~3017" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em13" spans="3246~3250" text="King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em14" spans="3417~3425" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em15" spans="3746~3754" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em16" spans="3932~3940" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em17" spans="4191~4199" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em18" spans="4389~4412" text="Martin Luther King, Jr." TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em19" spans="4620~4628" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em20" spans="4864~4887" text="Martin Luther King, Jr." TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em21" spans="5129~5147" text="Martin Luther King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em22" spans="5563~5571" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em23" spans="5696~5718" text="Martin Luther King Jr." TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em24" spans="5858~5866" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em25" spans="6346~6354" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em26" spans="6563~6571" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em27" spans="6751~6759" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em28" spans="730~771" text="indignities suffered by African Americans" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em29" spans="1085~1111" text="courageous black passenger" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em30" spans="1113~1123" text="Rosa Parks" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em31" spans="1251~1258" text="boycott" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em32" spans="1337~1344" text="protest" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em33" spans="1850~1857" text="boycott" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em34" spans="1947~1954" text="boycott" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em35" spans="2084~2094" text="Rosa Parks" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em36" spans="2100~2105" text="woman" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em37" spans="2146~2157" text="bus boycott" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em38" spans="2180~2215" text="Mother of the Civil Rights Movement" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em39" spans="2279~2309" text="injustice to African Americans" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em40" spans="2524~2535" text="bus boycott" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em41" spans="2577~2587" text="inequities" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em42" spans="2681~2702" text="Civil Rights Movement" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em43" spans="2742~2750" text="movement" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em44" spans="2638~2658" text="struggle for justice" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em45" spans="2944~2979" text="non-violent struggle against racism" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em46" spans="3027~3053" text="non-violent demonstrations" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em47" spans="3140~3159" text="non-violent protest" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em48" spans="3230~3240" text="philosophy" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em49" spans="3296~3301" text="fight" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em50" spans="3513~3531" text="Injustice anywhere" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em51" spans="3599~3620" text="Civil Rights Movement" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em52" spans="3629~3648" text="March on Washington" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em53" spans="3839~3857" text="equal civil rights" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em54" spans="4030~4049" text="March on Washington" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em55" spans="4246~4271" text="nonviolent demonstrations" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em56" spans="4568~4578" text="inequities" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em57" spans="4342~4387" text="equal opportunity in employment and education" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em58" spans="4748~4781" text="right to safely register and vote" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em59" spans="5027~5032" text="peace" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em60" spans="5037~5049" text="civil rights" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em61" spans="5109~5127" text="great man of peace" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em62" spans="5173~5194" text="Civil Rights Movement" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em63" spans="619~623" text="wife" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em64" spans="625~643" text="Coretta Scott King" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em65" spans="1786~1790" text="wife" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em66" spans="5204~5222" text="Coretta Scott King" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em67" spans="5436~5450" text="social justice" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em68" spans="5454~5477" text="The Making of a Holiday" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em69" spans="5539~5561" text="Martin Luther King Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em70" spans="5574~5579" text="widow" TYPE="Who" PRO="she" META_TYPE="Topic" comment="" />
+<entity_mention id="em71" spans="5581~5599" text="Coretta Scott King" TYPE="Who" PRO="she" META_TYPE="Topic" comment="" />
+<entity_mention id="em72" spans="5733~5746" text="legal holiday" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em73" spans="5787~5790" text="day" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em75" spans="5838~5845" text="holiday" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em76" spans="5886~5893" text="holiday" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em77" spans="5981~6004" text="third Monday in January" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em78" spans="6007~6022" text="federal holiday" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em79" spans="6133~6170" text="first official Martin Luther King Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em80" spans="6181~6196" text="federal holiday" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em81" spans="6385~6409" text="issues of social justice" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em82" spans="6485~6512" text="racism, equality, and peace" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em83" spans="6706~6727" text="Civil Rights Movement" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad0" spans="213~227" text="At a young age" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad1" spans="339~355" text="at the age of 15" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad2" spans="495~507" text="In late 1955" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad3" spans="586~608" text="to Montgomery, Alabama" TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad4" spans="655~674" text="at a Baptist church" TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad5" spans="678~683" text="There" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad6" spans="688~711" text="in many southern states" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad7" spans="949~983" text="when the front of the bus was full" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad8" spans="1062~1081" text="On December 1, 1955" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad9" spans="1279~1304" text="in the city of Montgomery" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad10" spans="1928~1942" text="after 381 days" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad11" spans="2838~2845" text="In 1957" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad12" spans="2981~3007" text="In the years that followed" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad13" spans="3359~3415" text="During the tumultuous years of the Civil Rights Movement" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad14" spans="3449~3483" text="From a jail in Birmingham, Alabama" TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad16" spans="3649~3667" text="on August 23, 1963" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad17" spans="3714~3733" text="in Washington, D.C." TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad18" spans="3768~3791" text="to the Capitol Building" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad19" spans="3885~3921" text="On the steps of the Lincoln Memorial" TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad20" spans="3922~3930" text="that day" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad22" spans="4162~4180" text="The following year" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad23" spans="4182~4189" text="in 1964" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad24" spans="4274~4288" text="That same year" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad25" spans="4592~4618" text="In the years that followed" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad26" spans="4783~4792" text="That year" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad27" spans="4846~4862" text="On April 4, 1968" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad28" spans="4940~4961" text="in Memphis, Tennessee" TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad29" spans="5196~5203" text="In 1969" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad30" spans="5313~5331" text="in January of 2006" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad31" spans="5402~5407" text="Today" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad32" spans="5480~5500" text="Throughout the 1980s" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad33" spans="5935~5942" text="in 1986" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad34" spans="6063~6090" text="On Monday, January 20, 1986" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad35" spans="6235~6238" text="Now" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad36" spans="6240~6250" text="every year" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad37" spans="5894~5924" text="on the day he was assassinated" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<entity_definition id="ed0" spans="625~643" text="Coretta Scott King" TYPE="Appositive" comment="" />
+<entity_definition id="ed1" spans="775~826" text="a result of racism, discrimination, and unjust laws" TYPE="Other" comment="" />
+<entity_definition id="ed2" spans="2096~2157" text="the woman whose small act of protest inspired the bus boycott" TYPE="Appositive" comment="" />
+<entity_definition id="ed3" spans="2175~2217" text="the “Mother of the Civil Rights Movement.”" TYPE="Predicative" comment="" />
+<entity_definition id="ed4" spans="2254~2309" text="one of the many forms of injustice to African Americans" TYPE="Predicative" comment="" />
+<entity_definition id="ed5" spans="2781~2834" text="a symbol and voice for the cause of African Americans" TYPE="Predicative" comment="" />
+<entity_definition id="ed6" spans="3535~3565" text="a threat to justice everywhere" TYPE="Predicative" comment="" />
+<entity_definition id="ed7" spans="3625~3667" text="the March on Washington on August 23, 1963" TYPE="Predicative" comment="" />
+<entity_definition id="ed8" spans="4008~4025" text="“I Have a Dream.”" TYPE="Relative" comment="" />
+<entity_definition id="ed9" spans="4054~4133" text="one of the largest gatherings of people that the nation’s capital had ever seen" TYPE="Predicative" comment="" />
+<entity_definition id="ed10" spans="5696~5729" text="Martin Luther King Jr.’s birthday" TYPE="Appositive" comment="" />
+<entity_definition id="ed11" spans="5733~5746" text="legal holiday" TYPE="Other" comment="" />
+<entity_definition id="ed12" spans="6005~6061" text="a federal holiday in honor of Dr. Martin Luther King, Jr" TYPE="Other" comment="" />
+<entity_definition id="ed13" spans="6172~6231" text="the only federal holiday to commemorate an African-American" TYPE="Appositive" comment="" />
+<entity_definition id="ed15" spans="1113~1123" text="Rosa Parks" TYPE="Appositive" comment="" />
+<entity_definition id="ed16" spans="5581~5599" text="Coretta Scott King" TYPE="Appositive" comment="" />
+</TAGS>
+</NLP4SLE_Specification_05.dtd>

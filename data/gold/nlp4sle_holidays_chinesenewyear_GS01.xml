@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NLP4SLE_Specification_05.dtd>
+<TEXT><![CDATA[
+
+Chinese New Year
+January/February – Lunar New Year
+
+Gung Hay Fat Choy! This is the Chinese greeting for the New Year; it means, “Wishing you luck and prosperity.” The New Year is one of the most important and festive Chinese holidays. In the United States, where more than 2.5 million people of Chinese descent live, Chinese New Year’s celebrations provide an important connection to Chinese culture and heritage. Chinese immigrants brought the traditions with them when they came to America to work in gold mining camps and on the railroads in the mid-1800s. 
+
+The Chinese New Year falls in late January or early February according to the Chinese lunar calendar, and traditionally lasts fifteen days ending with the full moon. 
+
+For the New Year, people decorate their homes with colorful pictures of flowers and fruits, and hang red paper squares or scrolls on which gold Chinese characters represent luck, happiness, prosperity, or health. Red is the color for Chinese New Year as it represents good luck. It also symbolizes fi re, which is said to drive away bad luck and evil spirits, particularly the legendary monster, “nian.” People wear red for the New Year, write poems and wishes on red paper, and give red envelopes, called “laisee” packets, filled with “lucky money” to children and young adults. Red firecrackers are also an essential part of Chinese New Year. From ancient times to the present, Chinese people have welcomed in the New Year and chased away the evil spirits by setting off firecrackers. Long ago people lit bamboo stalks, which crackled and sparked to scare away spirits that could bring bad luck to the year. 
+
+On the night before the New Year, families and friends come together for a special meal, which includes Chinese foods that represent happiness, health, and luck. On the final night of celebration is the Feast of the Lantern, or “Yuen Sui.” The lanterns are beautifully painted with animals, flowers and birds, or legendary scenes. Traditionally, the glowing lanterns were carried in a procession and hung in the temples. The Feast of the Lantern includes a dragon dance, which is performed by a huge, long dragon made of paper, silk, bamboo, or rattan. The dragon is carried by many people as it dances through the streets chasing a red “sunball,” or a white “pearl-ball,” held aloft by a parade participant. In the United States, the Feast of the Lantern is generally part of a larger parade that often occurs on the weekend closest to the New Year. 
+
+Today, Chinatowns in American cities with large Chinese populations, such as New York and San Francisco, hold elaborate and lively New Year’s celebrations that attract hundreds of thousands of participants and spectators. 
+
+In San Francisco, Chinese New Year is one of the largest Asian cultural events outside of Asia. Huge crowds gather in the streets of Chinatown to watch the festive and noisy parade, which includes decorated floats, musicians playing drums and gongs, lion dancers with paper lion heads on sticks, marching bands, Chinese acrobats, martial arts groups, and many firecrackers. At the end of the parade is a special Golden Dragon that was made by dragon masters in Foshan, China. The Golden Dragon is resplendent in gold and silver, fur, silk, paper, and rainbow-colored pompoms. It stretches over 200 feet long and requires 100 people to carry it. The dragon sways back and forth, twists and turns, jumps and dances amid the sparks and noise of over 500,000 firecrackers! 
+
+An important aspect of Chinese New Year is the animal connected with that year. For example, the New Year may be called, “The Year of the Horse” or “The Year of the Dog.” The Chinese lunar calendar, created in 2600 BC, has a 12-year cycle, and each year is associated with one of 12 animals on the Chinese calendar. The animals are the rat, ox, tiger, hare, dragon, snake, horse, sheep, monkey, rooster, dog, and pig. It is said that when Buddha asked all the animals to meet him on the New Year, these twelve animals came, and he named a year for each one. People born in that year are said to embody the characteristics, both good and bad, of its animal. The animal for the year is honored and featured on posters and many other items during New Year’s celebrations.
+]]></TEXT>
+<TAGS>
+<entity_mention id="em32" spans="1000~1009" text="good luck" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em33" spans="1030~1035" text="fi re" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em34" spans="1065~1090" text="bad luck and evil spirits" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em3" spans="110~118" text="New Year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em35" spans="1109~1126" text="legendary monster" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em36" spans="1129~1133" text="nian" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em37" spans="1136~1142" text="People" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em38" spans="1148~1151" text="red" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em39" spans="1160~1168" text="New Year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em41" spans="1176~1192" text="poems and wishes" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em43" spans="1216~1229" text="red envelopes" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em44" spans="1238~1254" text="“laisee” packets" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em45" spans="1269~1280" text="lucky money" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em46" spans="1285~1310" text="children and young adults" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em47" spans="1312~1328" text="Red firecrackers" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em48" spans="1351~1375" text="part of Chinese New Year" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em49" spans="1412~1426" text="Chinese people" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em4" spans="143~162" text="luck and prosperity" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em50" spans="1448~1456" text="New Year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em51" spans="1477~1489" text="evil spirits" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em52" spans="1505~1517" text="firecrackers" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em53" spans="1528~1534" text="people" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em54" spans="1539~1552" text="bamboo stalks" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em55" spans="1595~1602" text="spirits" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em56" spans="1620~1628" text="bad luck" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em57" spans="1636~1640" text="year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em58" spans="1678~1698" text="families and friends" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em5" spans="169~177" text="New Year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em59" spans="1727~1731" text="meal" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em60" spans="1748~1761" text="Chinese foods" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em61" spans="1777~1804" text="happiness, health, and luck" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em62" spans="1847~1867" text="Feast of the Lantern" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em63" spans="1873~1881" text="Yuen Sui" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em64" spans="1888~1896" text="lanterns" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em65" spans="1926~1973" text="animals, flowers and birds, or legendary scenes" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em66" spans="2002~2010" text="lanterns" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em67" spans="2069~2089" text="Feast of the Lantern" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em68" spans="2101~2113" text="dragon dance" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em69" spans="2150~2156" text="dragon" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em70" spans="2165~2195" text="paper, silk, bamboo, or rattan" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em6" spans="197~235" text="most important and festive Chinese holidays" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em71" spans="2201~2207" text="dragon" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em72" spans="2227~2233" text="people" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em73" spans="2259~2266" text="streets" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em74" spans="2282~2289" text="sunball" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em75" spans="2304~2314" text="pearl-ball" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em76" spans="2333~2351" text="parade participant" TYPE="Who" PRO="Unknown" META_TYPE="" comment="" />
+<entity_mention id="em77" spans="2379~2399" text="Feast of the Lantern" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em78" spans="2413~2417" text="part" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em79" spans="2430~2436" text="parade" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em80" spans="2504~2514" text="Chinatowns" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em83" spans="2574~2600" text="New York and San Francisco" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em84" spans="2628~2636" text="New Year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em85" spans="2639~2651" text="celebrations" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em86" spans="2690~2717" text="participants and spectators" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em87" spans="2739~2755" text="Chinese New Year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em88" spans="2770~2799" text="largest Asian cultural events" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em89" spans="2822~2828" text="crowds" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em8" spans="287~312" text="people of Chinese descent" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em90" spans="2895~2901" text="parade" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em91" spans="2928~3093" text="floats, musicians playing drums and gongs, lion dancers with paper lion heads on sticks, marching bands, Chinese acrobats, martial arts groups, and many firecrackers" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em0" spans="2~18" text="Chinese New Year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em92" spans="3133~3146" text="Golden Dragon" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em93" spans="3164~3178" text="dragon masters" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em9" spans="319~335" text="Chinese New Year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em94" spans="3201~3214" text="Golden Dragon" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em95" spans="3233~3295" text="gold and silver, fur, silk, paper, and rainbow-colored pompoms" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em96" spans="3319~3323" text="feet" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em97" spans="3346~3352" text="people" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em98" spans="3370~3376" text="dragon" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em10" spans="338~350" text="celebrations" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em99" spans="3443~3488" text="sparks and noise of over 500,000 firecrackers" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em100" spans="3505~3531" text="aspect of Chinese New Year" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em101" spans="3539~3570" text="animal" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em103" spans="3589~3597" text="New Year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em104" spans="3614~3635" text="The Year of the Horse" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em105" spans="3641~3660" text="The Year of the Dog" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em106" spans="3667~3689" text="Chinese lunar calendar" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em107" spans="3725~3730" text="cycle" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em11" spans="372~382" text="connection" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em108" spans="3741~3745" text="year" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em109" spans="3775~3782" text="animals" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em110" spans="3790~3806" text="Chinese calendar" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em111" spans="3812~3819" text="animals" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em113" spans="3828~3908" text="rat, ox, tiger, hare, dragon, snake, horse, sheep, monkey, rooster, dog, and pig" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em12" spans="385~414" text=" Chinese culture and heritage" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em114" spans="3931~3937" text="Buddha" TYPE="Who" PRO="he" META_TYPE="" comment="" />
+<entity_mention id="em115" spans="3952~3959" text="animals" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em116" spans="3979~3987" text="New Year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em117" spans="4002~4009" text="animals" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em118" spans="4031~4035" text="year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em119" spans="4050~4056" text="People" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em120" spans="4098~4113" text="characteristics" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em121" spans="4141~4147" text="animal" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em122" spans="4153~4159" text="animal" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em123" spans="4168~4172" text="year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em13" spans="416~434" text="Chinese immigrants" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em14" spans="447~457" text="traditions" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em1" spans="54~71" text="Gung Hay Fat Choy" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em17" spans="568~584" text="Chinese New Year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em18" spans="642~664" text="Chinese lunar calendar" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em19" spans="698~702" text="days" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em20" spans="719~728" text="full moon" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em21" spans="740~748" text="New Year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em22" spans="750~756" text="people" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em23" spans="772~777" text="homes" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em24" spans="792~822" text="pictures of flowers and fruits" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em26" spans="833~861" text="red paper squares or scrolls" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em2" spans="85~101" text="Chinese greeting" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em27" spans="871~894" text="gold Chinese characters" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em28" spans="905~943" text="luck, happiness, prosperity, or health" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em29" spans="945~948" text="Red" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em30" spans="956~961" text="color" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em31" spans="966~982" text="Chinese New Year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em16" spans="19~35" text="January/February" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em25" spans="38~52" text="Lunar New Year" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<adverbial id="ad6" spans="1193~1205" text="on red paper" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad7" spans="1377~1410" text="From ancient times to the present" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad8" spans="1519~1527" text="Long ago" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad9" spans="1644~1676" text="On the night before the New Year" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad10" spans="1806~1839" text="On the final night of celebration" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad11" spans="2024~2039" text="in a procession" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad12" spans="2049~2063" text="in the temples" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad13" spans="2353~2373" text="In the United States" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad0" spans="237~257" text="In the United States" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad14" spans="2455~2493" text="on the weekend closest to the New Year" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad15" spans="2497~2502" text="Today" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad16" spans="2721~2737" text="In San Francisco" TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad17" spans="2800~2815" text="outside of Asia" TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad18" spans="2836~2863" text="in the streets of Chinatown" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad21" spans="3095~3119" text="At the end of the parade" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad22" spans="3179~3195" text="in Foshan, China" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad23" spans="3699~3709" text="in 2600 BC" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad24" spans="4062~4074" text="in that year" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad25" spans="4229~4259" text="during New Year’s celebrations" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad2" spans="483~493" text="to America" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad1" spans="502~522" text="in gold mining camps" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad3" spans="527~543" text="on the railroads" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad4" spans="544~560" text="in the mid-1800s" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad5" spans="591~624" text="in late January or early February" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad20" spans="4197~4228" text="on posters and many other items" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad26" spans="2515~2564" text="in American cities with large Chinese populations" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<entity_definition id="ed4" spans="1129~1133" text="nian" TYPE="Appositive" comment="" />
+<entity_definition id="ed5" spans="1238~1254" text="“laisee” packets" TYPE="Relative" comment="" />
+<entity_definition id="ed1" spans="131~162" text="Wishing you luck and prosperity" TYPE="Predicative" comment="" />
+<entity_definition id="ed6" spans="1338~1375" text="an essential part of Chinese New Year" TYPE="Predicative" comment="" />
+<entity_definition id="ed2" spans="181~235" text="one of the most important and festive Chinese holidays" TYPE="Predicative" comment="" />
+<entity_definition id="ed8" spans="1873~1881" text="Yuen Sui" TYPE="Other" comment="" />
+<entity_definition id="ed11" spans="2403~2493" text="generally part of a larger parade that often occurs on the weekend closest to the New Year" TYPE="Predicative" comment="" />
+<entity_definition id="ed13" spans="2759~2815" text="one of the largest Asian cultural events outside of Asia" TYPE="Predicative" comment="" />
+<entity_definition id="ed14" spans="2918~3093" text="decorated floats, musicians playing drums and gongs, lion dancers with paper lion heads on sticks, marching bands, Chinese acrobats, martial arts groups, and many firecrackers" TYPE="Other" comment="" />
+<entity_definition id="ed15" spans="3535~3570" text="the animal connected with that year" TYPE="Predicative" comment="" />
+<entity_definition id="ed16" spans="3614~3635" text="The Year of the Horse" TYPE="Predicative" comment="" />
+<entity_definition id="ed17" spans="3641~3660" text="The Year of the Dog" TYPE="Predicative" comment="" />
+<entity_definition id="ed18" spans="3824~3908" text="the rat, ox, tiger, hare, dragon, snake, horse, sheep, monkey, rooster, dog, and pig" TYPE="Predicative" comment="" />
+<entity_definition id="ed0" spans="81~118" text="the Chinese greeting for the New Year" TYPE="Predicative" comment="" />
+<entity_definition id="ed3" spans="952~982" text="the color for Chinese New Year" TYPE="Predicative" comment="" />
+<entity_definition id="ed7" spans="2099~2113" text="a dragon dance" TYPE="Other" comment="" />
+<entity_definition id="ed9" spans="2574~2600" text="New York and San Francisco" TYPE="Other" comment="" />
+</TAGS>
+</NLP4SLE_Specification_05.dtd>

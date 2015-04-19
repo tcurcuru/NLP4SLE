@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NLP4SLE_Specification_05.dtd>
+<TEXT><![CDATA[
+﻿
+Asian Pacific American Heritage Month
+May
+
+Much like Black History Month and Women’s History Month, Asian Pacific American Heritage Month originated with a congressional bill. Two Representatives introduced the bill to the House of Representatives and two senators introduced the bill to the Senate. Both of them passed, and U.S. President Jimmy Carter officially recognized Asian/Pacific Heritage Week on October 5, 1978. Several years later, in May 1990, President George H. W. Bush expanded it to a month, and designated it as Asian Pacific Heritage Month. The month of May was chosen in honor of the arrival of the first Japanese immigrants to the United States on May 7, 1843 and also the completion of the transcontinental railroad on May 10, 1869.
+
+May is celebrated with community events that involve historical, educational, and cultural activities, and the recognition of famous Asian Americans in such fields as architecture, entertainment, athletics, education, art, and science. One historical period often discussed in school curricula in May is the building of the first railroad that spanned the American continent. This railroad, largely built by Chinese immigrants, is considered one of the crowning achievements of President Abraham Lincoln, even though it was completed four years after his death. To build the railroad, the Union Pacific Railroad began in Nebraska, and worked westward through Colorado and Wyoming to Utah. At the same time, the Central Pacific Railroad began in California, and moved eastward through Nevada to Utah, carving out places for railroad tracks in high mountain peaks. The two railroad companies met in the town of Promontary, Utah, where they drove in the final “golden spike” that brought together the east and west coasts of the American continent. This feat revolutionized the economy and population of the U.S. It caused the wagon trains to be obsolete, and affected commerce, trade, and travel across the continent.
+]]></TEXT>
+<TAGS>
+<entity_mention id="em0" spans="3~40" text="Asian Pacific American Heritage Month" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em1" spans="56~75" text="Black History Month" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em2" spans="80~101" text="Women’s History Month" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em3" spans="103~140" text="Asian Pacific American Heritage Month" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em4" spans="159~177" text="congressional bill" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em5" spans="183~198" text="Representatives" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em6" spans="214~218" text="bill" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em7" spans="226~250" text="House of Representatives" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em8" spans="259~267" text="senators" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em9" spans="283~287" text="bill" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em10" spans="295~301" text="Senate" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em11" spans="328~355" text="U.S. President Jimmy Carter" TYPE="Who" PRO="he" META_TYPE="" comment="" />
+<entity_mention id="em12" spans="378~405" text="Asian/Pacific Heritage Week" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em13" spans="460~487" text="President George H. W. Bush" TYPE="Who" PRO="he" META_TYPE="" comment="" />
+<entity_mention id="em14" spans="505~510" text="month" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em15" spans="533~561" text="Asian Pacific Heritage Month" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em16" spans="567~579" text="month of May" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em17" spans="607~614" text="arrival" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em18" spans="622~647" text="first Japanese immigrants" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em19" spans="655~668" text="United States" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em20" spans="697~707" text="completion" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em21" spans="715~740" text="transcontinental railroad" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em22" spans="759~762" text="May" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em23" spans="782~798" text="community events" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em24" spans="870~907" text="recognition of famous Asian Americans" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em25" spans="916~922" text="fields" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em26" spans="926~993" text="architecture, entertainment, athletics, education, art, and science" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em27" spans="999~1052" text="historical period often discussed in school curricula" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em29" spans="1067~1075" text="building" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em30" spans="1083~1097" text="first railroad" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em31" spans="1115~1133" text="American continent" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em32" spans="1140~1148" text="railroad" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em36" spans="1334~1342" text="railroad" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em37" spans="1348~1370" text="Union Pacific Railroad" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em38" spans="1470~1494" text="Central Pacific Railroad" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em39" spans="1571~1577" text="places" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em40" spans="1582~1597" text="railroad tracks" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em42" spans="1630~1648" text="railroad companies" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em43" spans="1710~1730" text="final “golden spike”" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em44" spans="1757~1777" text="east and west coasts" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em45" spans="1785~1803" text="American continent" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em46" spans="1810~1814" text="feat" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em47" spans="1834~1856" text="economy and population" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em48" spans="1864~1868" text="U.S." TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em49" spans="1883~1895" text="wagon trains" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em50" spans="1925~1952" text="commerce, trade, and travel" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em51" spans="41~44" text="May" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em52" spans="812~860" text="historical, educational, and cultural activities" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em53" spans="1167~1185" text="Chinese immigrants" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em54" spans="1221~1262" text="achievements of President Abraham Lincoln" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<adverbial id="ad0" spans="406~424" text="on October 5, 1978" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad1" spans="447~458" text="in May 1990" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad2" spans="669~683" text="on May 7, 1843" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad3" spans="741~756" text="on May 10, 1869" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad4" spans="1053~1059" text="in May" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad5" spans="1377~1388" text="in Nebraska" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad6" spans="1410~1446" text="through Colorado and Wyoming to Utah" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad7" spans="1501~1514" text="in California" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad8" spans="1535~1557" text="through Nevada to Utah" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad9" spans="1653~1684" text="in the town of Promontary, Utah" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad10" spans="1953~1973" text="across the continent" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad11" spans="1598~1620" text="in high mountain peaks" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad12" spans="1293~1319" text="four years after his death" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad13" spans="426~445" text="Several years later" TYPE="When" META_TYPE="Topic" comment="" />
+<entity_definition id="ed0" spans="812~860" text="historical, educational, and cultural activities" TYPE="Other" comment="" />
+<entity_definition id="ed2" spans="1201~1262" text="one of the crowning achievements of President Abraham Lincoln" TYPE="Predicative" comment="" />
+<entity_definition id="ed1" spans="1063~1133" text="the building of the first railroad that spanned the American continent" TYPE="Predicative" comment="" />
+</TAGS>
+</NLP4SLE_Specification_05.dtd>

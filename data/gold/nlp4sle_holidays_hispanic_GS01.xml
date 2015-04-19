@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NLP4SLE_Specification_05.dtd>
+<TEXT><![CDATA[
+
+Hispanic Heritage Month
+September 15 – October 15
+
+Hispanic Heritage Month began as National Hispanic Heritage Week in 1968, proclaimed as such by U.S. President Lyndon B. Johnson. It was expanded to a month-long celebration in 1988. This month celebrates the traditions and cultures of all Americans who trace their roots to Spain, Mexico, and the Spanish-speaking nations of Central America, South America, and the Caribbean. September 15 was chosen since it is the anniversary of independence of five countries: Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua. In addition, Mexico celebrates its independence on September 15th, and Chile on September 18th.
+
+Celebrations in September and October often include cultural activities and programs with speeches, food, dance, and music that recognize the political, artistic, athletic, and educational achievements of Hispanic Americans. One well-known political activist was Cesar Chavez who was the major force in the Labor Movement of the 1960s. Cesar Chavez was born to a poor family on a farm in Arizona in 1927. As a young child of ten, he was forced into migrant farm labor. Despite these obstacles, he grew up to be a gifted leader and organizer. As a person well aware of the inequities that affected American farm laborers, in 1962 he founded the National Farm Workers Association in California which focused on working for collective bargaining and a minimum wage for farm workers. In 1966, this association merged with other unions, forming the United Farm Workers, which advocated strikes, boycotts, and marches to bring about political change. Chavez adhered to the philosophy of Martin Luther King by working in non-violent ways to achieve equity. In 1968 the United Farm Workers advocated a widespread boycott of California grapes, finally signing a contract with the grape growers in 1970. Chavez then continued with a boycott of California lettuce. He died in 1993, but received a posthumous National Medal of Honor Award in 1994 from President Bill Clinton, the highest civilian award that is given by the U.S. government.
+]]></TEXT>
+<TAGS>
+<entity_mention id="em22" spans="1004~1009" text="1960s" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em23" spans="1011~1023" text="Cesar Chavez" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em24" spans="1043~1049" text="family" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em26" spans="1091~1096" text="child" TYPE="Who" PRO="he" META_TYPE="" comment="" />
+<entity_mention id="em27" spans="1124~1142" text="migrant farm labor" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em28" spans="1158~1167" text="obstacles" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em29" spans="1195~1215" text="leader and organizer" TYPE="Who" PRO="he" META_TYPE="" comment="" />
+<entity_mention id="em30" spans="1222~1228" text="person" TYPE="Who" PRO="he" META_TYPE="" comment="" />
+<entity_mention id="em31" spans="1247~1257" text="inequities" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em32" spans="1272~1294" text="American farm laborers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em33" spans="1319~1352" text="National Farm Workers Association" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em34" spans="1396~1436" text="collective bargaining and a minimum wage" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em35" spans="1441~1453" text="farm workers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em36" spans="1469~1480" text="association" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em37" spans="1499~1505" text="unions" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em3" spans="149~181" text="U.S. President Lyndon B. Johnson" TYPE="Who" PRO="he" META_TYPE="" comment="" />
+<entity_mention id="em38" spans="1519~1538" text="United Farm Workers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em39" spans="1556~1586" text="strikes, boycotts, and marches" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em40" spans="1602~1618" text="political change" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em41" spans="1620~1626" text="Chavez" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em42" spans="1642~1674" text="philosophy of Martin Luther King" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em43" spans="1689~1705" text="non-violent ways" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em44" spans="1717~1723" text="equity" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em45" spans="1737~1756" text="United Farm Workers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em46" spans="1780~1808" text="boycott of California grapes" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em47" spans="1828~1836" text="contract" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em48" spans="1846~1859" text="grape growers" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em49" spans="1869~1875" text="Chavez" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em50" spans="1898~1927" text="boycott of California lettuce" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em51" spans="1972~2001" text="National Medal of Honor Award" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em52" spans="2015~2037" text="President Bill Clinton" TYPE="Who" PRO="he" META_TYPE="" comment="" />
+<entity_mention id="em53" spans="2039~2065" text="highest civilian award" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em54" spans="2087~2102" text="U.S. government" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em4" spans="204~226" text="month-long celebration" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em5" spans="241~246" text="month" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em7" spans="262~285" text="traditions and cultures" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em8" spans="293~428" text="Americans who trace their roots to Spain, Mexico, and the Spanish-speaking nations of Central America, South America, and the Caribbean" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em0" spans="2~25" text="Hispanic Heritage Month" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em9" spans="430~442" text="September 15" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em10" spans="470~497" text="anniversary of independence" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em1" spans="53~76" text="Hispanic Heritage Month" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em11" spans="591~597" text="Mexico" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em12" spans="613~625" text="independence" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em13" spans="649~654" text="Chile" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em14" spans="675~687" text="Celebrations" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em15" spans="727~759" text="cultural activities and programs" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em16" spans="765~797" text="speeches, food, dance, and music" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em17" spans="817~898" text="political, artistic, athletic, and educational achievements of Hispanic Americans" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em2" spans="86~117" text="National Hispanic Heritage Week" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em18" spans="915~933" text="political activist" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em19" spans="938~950" text="Cesar Chavez" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em20" spans="963~974" text="major force" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em21" spans="982~996" text="Labor Movement" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em6" spans="506~515" text="countries" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em25" spans="517~576" text="Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em55" spans="26~51" text="September 15 – October 15" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<adverbial id="ad6" spans="1050~1070" text="on a farm in Arizona" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad7" spans="1071~1078" text="in 1927" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad0" spans="118~125" text="in 1968" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad8" spans="1296~1303" text="in 1962" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad9" spans="1353~1366" text="in California" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad10" spans="1455~1462" text="In 1966" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad11" spans="1725~1732" text="In 1968" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad12" spans="1860~1867" text="in 1970" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad13" spans="1937~1944" text="in 1993" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad14" spans="2002~2009" text="in 1994" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad1" spans="227~234" text="in 1988" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad2" spans="626~643" text="on September 15th" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad4" spans="655~672" text="on September 18th" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad5" spans="688~712" text="in September and October" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<entity_definition id="ed5" spans="1186~1215" text="a gifted leader and organizer" TYPE="Predicative" comment="" />
+<entity_definition id="ed6" spans="1220~1294" text="a person well aware of the inequities that affected American farm laborers" TYPE="Other" comment="" />
+<entity_definition id="ed8" spans="2039~2102" text="the highest civilian award that is given by the U.S. government" TYPE="Appositive" comment="" />
+<entity_definition id="ed1" spans="466~576" text="the anniversary of independence of five countries: Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua" TYPE="Predicative" comment="" />
+<entity_definition id="ed2" spans="727~898" text="cultural activities and programs with speeches, food, dance, and music that recognize the political, artistic, athletic, and educational achievements of Hispanic Americans" TYPE="Other" comment="" />
+<entity_definition id="ed3" spans="904~933" text="well-known political activist" TYPE="Predicative" comment="" />
+<entity_definition id="ed4" spans="959~1009" text="the major force in the Labor Movement of the 1960s" TYPE="Relative" comment="" />
+</TAGS>
+</NLP4SLE_Specification_05.dtd>

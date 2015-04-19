@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NLP4SLE_Specification_05.dtd>
+<TEXT><![CDATA[
+
+Black History Month
+February
+
+Black History Month is one of the most widely-celebrated of federal months. It was originally established in 1926 as Negro History Week by noted African-American author and Harvard University scholar, Dr. Carter G. Woodson. Dr. Woodson’s hope was that this special observance would remind all Americans of their ethnic roots, and that the commemoration would increase mutual respect. In 1976 the celebration was expanded to include the entire month, and it became known as Black History Month, also called African American History Month. The month of February was chosen since it contains the birthdays of Abraham Lincoln and Frederick Douglas. Lincoln is honored because of the Emancipation Proclamation (see page 16) that freed the slaves, and Douglas is honored as one of the most influential moral leaders, orators, and authors of American history.
+ 
+One aim of Black History Month is to expose the harmful effects of racial prejudice; another is to recognize significant contributions made by people with African heritage, including artists, musicians, scientists, political figures, educators, and athletes. During February, cities, communities, and educational establishments feature speakers and community events, often focusing on the Civil Rights Movement. In classrooms, the legacy of Dr. Martin Luther King (see page 7) is commonly a part of the curriculum. Dr. King focused his energy on organizing peaceful protest demonstrations and marches, mostly in the American southern states. He led the great march on Washington, D.C. in 1963 where he gave his famous “I Have A Dream” speech (see page 9). Dr. King advocated a non-violent approach to social change following the philosophy of Mohandas Gandhi. Another community activist whose life is often a part of school curricula is Rosa Parks (see pages 7–8). In 1955, Rosa Parks refused to surrender her seat on the bus to a white passenger. By forcing the police to remove her, and then arrest and imprison her, she brought national attention to the civil rights movement. This incident later became a test case for repealing segregation laws.
+]]></TEXT>
+<TAGS>
+<entity_mention id="em0" spans="2~21" text="Black History Month" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em1" spans="22~30" text="February" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em2" spans="32~51" text="Black History Month" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em3" spans="92~106" text="federal months" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em4" spans="149~167" text="Negro History Week" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em5" spans="177~231" text="African-American author and Harvard University scholar" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em6" spans="233~254" text="Dr. Carter G. Woodson" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em7" spans="256~267" text="Dr. Woodson" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em8" spans="270~274" text="hope" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em9" spans="297~307" text="observance" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em10" spans="325~334" text="Americans" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em11" spans="344~356" text="ethnic roots" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em12" spans="371~384" text="commemoration" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em13" spans="407~414" text="respect" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em14" spans="428~439" text="celebration" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em15" spans="475~480" text="month" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em16" spans="505~524" text="Black History Month" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em17" spans="538~568" text="African American History Month" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em18" spans="574~591" text="month of February" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em19" spans="625~675" text="birthdays of Abraham Lincoln and Frederick Douglas" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em20" spans="677~684" text="Lincoln" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em21" spans="711~736" text="Emancipation Proclamation" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em22" spans="742~749" text="page 16" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em23" spans="766~772" text="slaves" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em24" spans="778~785" text="Douglas" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em25" spans="811~883" text="most influential moral leaders, orators, and authors of American history" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em26" spans="891~917" text="aim of Black History Month" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em27" spans="943~970" text="effects  of racial prejudice" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em28" spans="1008~1021" text="contributions" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em29" spans="1030~1036" text="people" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em30" spans="1042~1058" text="African heritage" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em31" spans="1070~1144" text="artists, musicians, scientists, political figures, educators, and athletes" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em32" spans="1163~1214" text="cities, communities, and educational establishments" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em33" spans="1223~1252" text="speakers and community events" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em34" spans="1276~1297" text="Civil Rights Movement" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em35" spans="1318~1350" text="legacy of Dr. Martin Luther King" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em36" spans="1356~1362" text="page 7" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em37" spans="1378~1382" text="part" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em38" spans="1390~1400" text="curriculum" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em39" spans="1402~1410" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em40" spans="1423~1429" text="energy" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em41" spans="1453~1487" text="protest demonstrations and marches" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em42" spans="1546~1551" text="march" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em43" spans="1605~1628" text="“I Have A Dream” speech" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em44" spans="1634~1640" text="page 9" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em45" spans="1643~1651" text="Dr. King" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em46" spans="1664~1684" text="non-violent approach" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em47" spans="1688~1701" text="social change" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em48" spans="1716~1745" text="philosophy of Mohandas Gandhi" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em49" spans="1824~1834" text="Rosa Parks" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em50" spans="1755~1773" text="community activist" TYPE="Who" PRO="she" META_TYPE="" comment="" />
+<entity_mention id="em51" spans="1780~1784" text="life" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em52" spans="1796~1820" text="part of school curricula" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em53" spans="1840~1849" text="pages 7–8" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em54" spans="1861~1871" text="Rosa Parks" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em55" spans="1897~1901" text="seat" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em56" spans="1918~1933" text="white passenger" TYPE="Who" PRO="Unknown" META_TYPE="" comment="" />
+<entity_mention id="em57" spans="1950~1956" text="police" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em58" spans="2018~2036" text="national attention" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em59" spans="2044~2065" text="civil rights movement" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em60" spans="2072~2080" text="incident" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em61" spans="2096~2105" text="test case" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em62" spans="2120~2136" text="segregation laws" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<adverbial id="ad0" spans="138~145" text="in 1926" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad1" spans="416~423" text="In 1976" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad2" spans="1146~1161" text="During February" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad3" spans="1299~1312" text="In classrooms" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad4" spans="1496~1527" text="in the American southern states" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad5" spans="1552~1570" text="on Washington, D.C" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad6" spans="1572~1579" text="in 1963" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad7" spans="1852~1859" text="In 1955" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad8" spans="1902~1912" text="on the bus" TYPE="Where" META_TYPE="" comment="" />
+<entity_definition id="ed0" spans="55~106" text="one of the most widely-celebrated of federal months" TYPE="Predicative" comment="" />
+<entity_definition id="ed1" spans="171~231" text="noted African-American author and Harvard University scholar" TYPE="Appositive" comment="" />
+<entity_definition id="ed2" spans="279~356" text="that this special observance would remind all Americans of their ethnic roots" TYPE="Predicative" comment="" />
+<entity_definition id="ed3" spans="362~414" text="that the commemoration would increase mutual respect" TYPE="Predicative" comment="" />
+<entity_definition id="ed4" spans="505~524" text="Black History Month" TYPE="Predicative" comment="" />
+<entity_definition id="ed5" spans="538~568" text="African American History Month" TYPE="Relative" comment="" />
+<entity_definition id="ed6" spans="800~883" text="one of the most influential moral leaders, orators, and authors of American history" TYPE="Predicative" comment="" />
+<entity_definition id="ed7" spans="921~970" text="to expose the harmful effects of racial prejudice" TYPE="Predicative" comment="" />
+<entity_definition id="ed8" spans="983~1144" text="to recognize significant contributions made by people with African heritage, including artists, musicians, scientists, political figures, educators, and athletes" TYPE="Predicative" comment="" />
+<entity_definition id="ed9" spans="1376~1400" text="a part of the curriculum" TYPE="Predicative" comment="" />
+<entity_definition id="ed10" spans="1747~1820" text="Another community activist whose life is often a part of school curricula" TYPE="Predicative" comment="" />
+<entity_definition id="ed11" spans="1794~1820" text="a part of school curricula" TYPE="Predicative" comment="" />
+<entity_definition id="ed12" spans="2094~2136" text="a test case for repealing segregation laws" TYPE="Predicative" comment="" />
+</TAGS>
+</NLP4SLE_Specification_05.dtd>

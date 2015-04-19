@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NLP4SLE_Specification_06.dtd>
+<TEXT><![CDATA[
+
+Halloween
+October 31
+
+On October 31st, dozens of children dressed in costumes knock on their neighbors’ doors and yell, “Trick or Treat” when the door opens. Pirates and princesses, ghosts, and popular heroes and heroines of the day all hold bags open to catch the candy or other goodies that the neighbors drop in. As they give each child a treat, the neighbors exclaim over the costumes and try to guess who is under the masks.
+
+Like some other American holidays, Halloween customs evolved from a mix of traditions. The word “Halloween” comes from the name of a holiday from the 800s AD, called All Hallows’ Eve. This was the day and evening before All Saints’ Day, a holy day that was celebrated on November 1st. The origins of Halloween go back even further, however. In ancient times, October 31st was the eve of the Celtic New Year. The Celts, who lived over 2,000 years ago, were the ancestors of the present-day Irish, Welsh, and Scottish people. On this day, the Celts held the festival of Samhain in honor of the Celtic lord of the dead. In the evening, Samhain allowed ghosts to walk and mingle with the living, or so the Celts thought. The townspeople baked food all that day, and when night came, they dressed up in animal heads and skins, and attended a great bonfire, set by their priests, the Druids. Hoping that the ghosts would leave peacefully before the new year, the people carried the food they had made to the edge of town and left it for the spirits to find. The celebration of Samhain also marked the end of the harvest season, and the beginning of the cold, dark time of year. Much later, when October 31 was no longer the last day of the year, autumn festivals continued to be held, celebrating the harvest and honoring the dead. Over time, however, Halloween became a celebration mostly for children. “Ghosts” went from door to door asking for treats, or else a trick would be played on the owners of the house. When millions of Irish, British, and others from Celtic regions immigrated to the United States in the 1840s, the traditions came with them.
+
+Today, many schools plan Halloween festivities, and some neighborhoods hold parties, often called “block parties” which are popular among young and old alike. More recently, adults have begun to celebrate Halloween, too. They dress up like historical or political figures, movie stars, or cartoon characters, and go to masquerade parties or city-sponsored street parties. In many towns and cities, costumed children and their parents gather at shopping malls early in the evening. Stores and businesses give parties, with games and treats for the children. Teenagers enjoy costume dances at their schools, and the more outrageous the costume the better!
+
+Certain pranks such as soaping car windows and tipping over garbage cans are expected. But partying and pranks are not the only things that Halloween revelers enjoy doing. Some collect money to buy food and medicine for needy children around the world. Others may sponsor a Halloween party, or donate money or costumes for needy children locally.
+
+At Halloween parties, children play games, listen to ghost stories, enjoy snacks, and decorate their Halloween “trick-or-treat” bag for the evening. One traditional Halloween game is bobbing for apples. One child at a time has to get an apple from a tub of water without using any hands! How? By sinking his or her face into the water and biting into the apple!
+
+Symbols of Halloween
+
+Halloween originated in part as a celebration connected with evil spirits and the dead. Witches flying on broomsticks with black cats, ghosts, goblins, and skeletons have all evolved as symbols of Halloween. They are popular as trick-or-treat costumes, and decorations for greeting cards and windows. Black is one of the traditional Halloween colors, probably because Halloween festivals and traditions took place at night and also marked the beginning of winter darkness. In the weeks before October 31, retail shops and school windows are decorated with silhouettes of witches and black cats. Some people decorate their front door with Halloween symbols or fake spider webs. Others create elaborate and scary scenes, such as spooky graveyards, on their front lawns.
+
+Pumpkins are also a symbol of Halloween. Since the pumpkin is a large, orange-colored squash, orange has become the other traditional Halloween color. Carving pumpkins into jack-o’-lanterns is a Halloween custom dating back to Ireland. A legend grew up about a man named Jack who was so stingy that he was not allowed into heaven when he died. His spirit was doomed to wander around the countryside, holding a lantern to light his way. The Irish people carved scary faces out of turnips representing “Jack of the Lantern,” or Jack-o’-lantern. When the Irish brought their customs to the United States, they carved faces on pumpkins because in the autumn, pumpkins were more plentiful than turnips. Today a jack-o’-lantern, with a candle lit and glowing inside, is placed in the window or on the front porch of a house on Halloween night to let costumed children know that there are goodies waiting if they knock on the door and say “Trick or Treat!”
+]]></TEXT>
+<TAGS>
+<entity_mention id="em0" spans="2~11" text="Halloween" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em1" spans="41~59" text="dozens of children" TYPE="Who" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em2" spans="336~341" text="child" TYPE="Who" PRO="Unknown" META_TYPE="Topic" comment="" />
+<entity_mention id="em3" spans="95~104" text="neighbors" TYPE="Who" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em4" spans="299~308" text="neighbors" TYPE="Who" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em5" spans="355~364" text="neighbors" TYPE="Who" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em6" spans="71~79" text="costumes" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em7" spans="382~390" text="costumes" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em8" spans="468~485" text="Halloween customs" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em9" spans="530~539" text="Halloween" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em10" spans="733~742" text="Halloween" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em11" spans="792~804" text="October 31st" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em12" spans="845~850" text="Celts" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em13" spans="974~979" text="Celts" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em14" spans="989~1008" text="festival of Samhain" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em15" spans="1066~1073" text="Samhain" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em16" spans="1135~1140" text="Celts" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em17" spans="1082~1088" text="ghosts" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em18" spans="1025~1048" text="Celtic lord of the dead" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em19" spans="1335~1341" text="ghosts" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em20" spans="1468~1475" text="spirits" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em21" spans="1489~1511" text="celebration of Samhain" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em22" spans="1622~1632" text="October 31" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em23" spans="1749~1757" text="the dead" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em24" spans="1779~1788" text="Halloween" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em25" spans="1821~1829" text="children" TYPE="Who" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em26" spans="1832~1838" text="Ghosts" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em27" spans="2109~2130" text="Halloween festivities" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em28" spans="2160~2167" text="parties" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em29" spans="2258~2264" text="adults" TYPE="Who" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em30" spans="2289~2298" text="Halloween" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em31" spans="2403~2421" text="masquerade parties" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em32" spans="2440~2454" text="street parties" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em33" spans="2491~2499" text="children" TYPE="Who" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em34" spans="2592~2599" text="parties" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em35" spans="2631~2639" text="children" TYPE="Who" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em36" spans="2657~2664" text="costume" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em37" spans="2718~2725" text="costume" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em38" spans="2747~2753" text="pranks" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em39" spans="2830~2849" text="partying and pranks" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em40" spans="2879~2888" text="Halloween" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em41" spans="2965~2973" text="children" TYPE="Who" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em42" spans="3013~3028" text="Halloween party" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em43" spans="3049~3057" text="costumes" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em44" spans="3068~3076" text="children" TYPE="Who" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em45" spans="3109~3117" text="children" TYPE="Who" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em46" spans="3123~3128" text="games" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em47" spans="3140~3153" text="ghost stories" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em48" spans="3188~3197" text="Halloween" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em49" spans="3252~3266" text="Halloween game" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em50" spans="3294~3299" text="child" TYPE="Who" PRO="Unknown" META_TYPE="Topic" comment="" />
+<entity_mention id="em51" spans="3450~3470" text="Symbols of Halloween" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em52" spans="3472~3481" text="Halloween" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em53" spans="3658~3678" text="symbols of Halloween" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em54" spans="3773~3778" text="Black" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em55" spans="3840~3874" text="Halloween festivals and traditions" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em56" spans="4110~4127" text="Halloween symbols" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em57" spans="4241~4249" text="Pumpkins" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em58" spans="4261~4280" text="symbol of Halloween" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em59" spans="4292~4299" text="pumpkin" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em60" spans="4335~4341" text="orange" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em61" spans="4400~4408" text="pumpkins" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em62" spans="4896~4904" text="pumpkins" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em63" spans="4720~4727" text="turnips" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em64" spans="4930~4937" text="turnips" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em65" spans="4414~4430" text="jack-o’-lanterns" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em66" spans="4767~4782" text="Jack-o’-lantern" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em67" spans="4947~4962" text="jack-o’-lantern" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em68" spans="5094~5102" text="children" TYPE="Who" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em69" spans="123~137" text="Trick or Treat" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em70" spans="3199~3213" text="trick-or-treat" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em71" spans="5174~5188" text="Trick or Treat" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad0" spans="24~39" text="On October 31st" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad1" spans="139~158" text="when the door opens" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad2" spans="774~790" text="In ancient times" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad3" spans="862~882" text="over 2,000 years ago" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad4" spans="957~968" text="On this day" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad5" spans="1050~1064" text="In the evening" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad6" spans="1195~1210" text="when night came" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad7" spans="1365~1384" text="before the new year" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad8" spans="1428~1447" text="to the edge of town" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad10" spans="1605~1615" text="Much later" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad11" spans="1759~1768" text="Over time" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad12" spans="1845~1862" text="from door to door" TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad13" spans="1986~2005" text="from Celtic regions" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad14" spans="2017~2037" text="to the United States" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad15" spans="2038~2050" text="in the 1840s" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad16" spans="2084~2089" text="Today" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad17" spans="2456~2480" text="In many towns and cities" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad18" spans="2525~2542" text="at shopping malls" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad19" spans="2543~2563" text="early in the evening" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad20" spans="3087~3107" text="At Halloween parties" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad21" spans="3886~3894" text="at night" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad22" spans="3945~3975" text="In the weeks before October 31" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad24" spans="4784~4841" text="When the Irish brought their customs to the United States" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad25" spans="4861~4872" text="on pumpkins" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad26" spans="4881~4894" text="in the autumn" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad27" spans="5012~5047" text="in the window or on the front porch" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad28" spans="5059~5077" text="on Halloween night" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<entity_definition id="ed0" spans="12~22" text="October 31" TYPE="Other" comment="" />
+<entity_definition id="ed1" spans="552~615" text="the name of a holiday from the 800s AD, called All Hallows’ Eve" TYPE="Predicative" comment="" />
+<entity_definition id="ed2" spans="626~668" text="the day and evening before All Saints’ Day" TYPE="Predicative" comment="" />
+<entity_definition id="ed3" spans="670~716" text="a holy day that was celebrated on November 1st" TYPE="Appositive" comment="" />
+<entity_definition id="ed4" spans="813~839" text="eve of the Celtic New Year" TYPE="Predicative" comment="" />
+<entity_definition id="ed5" spans="889~955" text="the ancestors of the present-day Irish, Welsh, and Scottish people" TYPE="Predicative" comment="" />
+<entity_definition id="ed6" spans="1298~1305" text="priests" TYPE="Appositive" comment="" />
+<entity_definition id="ed7" spans="1524~1603" text="the end of the harvest season, and the beginning of the cold, dark time of year" TYPE="Predicative" comment="" />
+<entity_definition id="ed8" spans="1637~1671" text="no longer the last day of the year" TYPE="Predicative" comment="" />
+<entity_definition id="ed9" spans="2183~2196" text="block parties" TYPE="Appositive" comment="" />
+<entity_definition id="ed10" spans="2762~2811" text="soaping car windows and tipping over garbage cans" TYPE="Other" comment="" />
+<entity_definition id="ed11" spans="3270~3288" text="bobbing for apples" TYPE="Appositive" comment="" />
+<entity_definition id="ed12" spans="3504~3558" text="a celebration connected with evil spirits and the dead" TYPE="Predicative" comment="" />
+<entity_definition id="ed13" spans="3560~3637" text="Witches flying on broomsticks with black cats, ghosts, goblins, and skeletons" TYPE="Other" comment="" />
+<entity_definition id="ed14" spans="3700~3771" text="trick-or-treat costumes, and decorations for greeting cards and windows" TYPE="Predicative" comment="" />
+<entity_definition id="ed15" spans="3782~3821" text="one of the traditional Halloween colors" TYPE="Predicative" comment="" />
+<entity_definition id="ed16" spans="3911~3943" text="the beginning of winter darkness" TYPE="Predicative" comment="" />
+<entity_definition id="ed17" spans="4259~4280" text="a symbol of Halloween" TYPE="Predicative" comment="" />
+<entity_definition id="ed18" spans="4305~4333" text="large, orange-colored squash" TYPE="Predicative" comment="" />
+<entity_definition id="ed19" spans="4353~4390" text="the other traditional Halloween color" TYPE="Predicative" comment="" />
+<entity_definition id="ed20" spans="4434~4475" text="a Halloween custom dating back to Ireland" TYPE="Predicative" comment="" />
+<entity_definition id="ed21" spans="4767~4782" text="Jack-o’-lantern" TYPE="Appositive" comment="" />
+</TAGS>
+</NLP4SLE_Specification_06.dtd>

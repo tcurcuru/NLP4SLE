@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NLP4SLE_Specification_06.dtd>
+<TEXT><![CDATA[
+
+Flag Day
+June 14
+
+National flags are not merely symbols of a country. Their colors and designs convey past history and future goals. Flags have powerful connotations. They speak to the people and politicians. Flags show identity and are flown by international carriers and transport vehicles for this purpose. Flags show national pride; many athletes, for example, after winning an international sports event drape themselves with their national flag.
+
+It is interesting to point out that the United States did not even have a standardized flag until 1912. Called the “Stars and Stripes,” or “Old Glory,” the flag is one of the more complicated in the world, requiring 64 pieces of fabric to make. The current flag has thirteen red and white alternating stripes (representing the original 13 states) and fifty stars (each star representing one of the states of the Union) on a blue background.
+
+The American flag has changed designs more than any other flag in the world. The first flag, called the “Grand Union,” designed by George Washington, was flown at the headquarters of the Continental Army on January 1, 1776. This flag contained the British flag, the “Union Jack,” in the upper left corner, and had thirteen stripes of red and white. On June 14, 1777, after the Declaration of Independence, Congress proposed that the United States have its own national flag instead of showing the British “Union Jack.” The new design replaced the “Union Jack” with thirteen white stars on a blue field. The thirteen stars of the flag represented the thirteen new states. The following remark about the design is attributed to Washington:
+
+We take the stars from heaven, the red from our mother country, separate it by white stripes, thus showing that we have separated from her...
+
+It is not known who actually designed this flag. Betsy Ross, a seamstress, is said to have contributed to its design. She had an upholstery business, which made flags for navy ships in Pennsylvania. A legend still persists that she showed George Washington how to make a five-pointed star, and suggested thirteen stars in a circle for the first flag. Her descendants claimed that she offered Washington the design. Actually, it is unknown whether she and George Washington ever met.
+
+There were few public ceremonies honoring the “Stars and Stripes” until 1877. In that year, on June 14, the first official Flag Day was observed, and Congress requested that the flag be flown from every government building in honor of the centennial of the adoption of a national flag. Schools had unfurled American flags over their doors or outside the building long before this; but in 1890, North Dakota and New Jersey made a law that required their schools to fly the flag daily. New York was the first state to proclaim June 14 as Flag Day, to be celebrated as an annual event. Other states were slow to follow. Some people thought that the day was too close to Memorial Day and Independence Day. In 1916, President Woodrow Wilson proclaimed Flag Day a national celebration.
+
+In August 1949, President Harry S. Truman signed the national Flag Day Bill, officially recognizing June 14 as Flag Day. Since then, the President proclaims the commemoration yearly, and encourages all Americans in the country to display the “Stars and Stripes” outside their homes and businesses. Individual states determine how they will observe the day. Usually the flag is flown from all public buildings, speeches are made in public places, and ceremonies take place in some towns and cities.
+
+Until 2002, elementary school children across the nation recited the Pledge of Allegiance in front of the flag every weekday morning. However, many people felt that this requirement violated individual rights outlined in the U.S. Constitution. Some people also felt that the words, “under God,” which had been added to the Pledge in 1954, had no place in a patriotic pledge, and should be removed. Much debate and controversy arose over these issues, and on June 25, 2002, the 9th Circuit Federal Court of Appeals ruled unconstitutional the requirement that public school children recite the Pledge of Allegiance. Private schools and institutions were free to make their own decisions about the pledge. The words, “under God,” remain in the pledge:
+
+I pledge allegiance to the flag of the United States of America, and to the republic for which it stands, one nation under God, indivisible, with liberty and justice for all.
+
+Americans take the treatment of their flag seriously, and in the 20th century this became an important and sometimes controversial issue. Included in the code of ethics governing the handling, use, and display of the flag are such rules as: The national flag should be flown between sunrise and sunset, except on some special occasions. Though it is not illegal to fly the flag 24 hours a day, it should be spotlighted if flown at night. It cannot cover a monument or any ceiling. It must not be folded while being displayed. No one should write on an American flag. Ships can lower their flags slightly in greeting each other, as can military color guard in ceremonies, but otherwise it should not be dipped for any other object or person. The flag should not be hung upside down, unless done so as a distress signal. The flag is flown at half-mast in honor of a national hero or leader upon his or her death, or to honor a celebrity or group of people such as soldiers who gave so much, including their lives, for their country.
+
+As in every country of the world, the treatment of the flag displays an opinion or statement. In the late 1960s, American students wore small flags sewn to their clothing and draped flags around their shoulders, symbolically challenging the American government and protesting its involvement in the Vietnam War. They burned the American flag in front of the Capitol Building in Washington, D.C., as a statement of protest. In the early 1990s, senators suggested an amendment to the Constitution that would make wearing and burning of the flag illegal. The proposition was opposed because many others felt that this change would be a violation of Americans’ constitutional rights to express their opinions freely.
+
+The flag is one of the nation’s most powerful and significant symbols, and as such, is celebrated every June 14th in the United States. In fact, the symbolic nature of the flag is what inspired the U.S. national anthem. In September 1814, during the War of 1812 between the British and Americans, a lawyer named Francis Scott Key watched a fiery battle in the Baltimore Harbor. The morning after the battle he saw the flag waving, and was inspired to write a poem. This poem became the national anthem, “The Star Spangled Banner.” The actual flag from that battle is on exhibit at the Museum of American History in Washington, D.C.
+]]></TEXT>
+<TAGS>
+<entity_mention id="em0" spans="2~10" text="Flag Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em1" spans="20~34" text="National flags" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em2" spans="135~140" text="Flags" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em3" spans="211~216" text="Flags" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em4" spans="312~317" text="Flags" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em5" spans="439~452" text="national flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em6" spans="542~546" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em8" spans="611~615" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em9" spans="712~716" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em10" spans="901~914" text="American flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em11" spans="978~988" text="first flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em12" spans="1028~1045" text="George Washington" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em13" spans="1126~1130" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em14" spans="1303~1311" text="Congress" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em15" spans="1357~1370" text="national flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em16" spans="1145~1157" text="British flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em17" spans="1394~1415" text="British “Union Jack.”" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em18" spans="1445~1455" text="Union Jack" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em19" spans="1526~1530" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em20" spans="1462~1482" text="thirteen white stars" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em21" spans="1504~1518" text="thirteen stars" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em22" spans="1648~1653" text="stars" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em23" spans="1822~1826" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em24" spans="1828~1838" text="Betsy Ross" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em25" spans="1940~1945" text="flags" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em26" spans="2063~2067" text="star" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em27" spans="2083~2097" text="thirteen stars" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em28" spans="2118~2128" text="first flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em29" spans="2018~2035" text="George Washington" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em30" spans="2171~2181" text="Washington" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em31" spans="2234~2251" text="George Washington" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em32" spans="2310~2327" text="Stars and Stripes" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em33" spans="2371~2394" text="first official Flag Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em34" spans="2413~2421" text="Congress" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em35" spans="2441~2445" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em36" spans="2570~2584" text="American flags" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em37" spans="2735~2739" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em38" spans="2799~2807" text="Flag Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em39" spans="2974~2998" text="President Woodrow Wilson" TYPE="Who" PRO="he" META_TYPE="Topic" comment="" />
+<entity_mention id="em40" spans="3010~3018" text="Flag Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em41" spans="3060~3085" text="President Harry S. Truman" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em42" spans="3097~3119" text="national Flag Day Bill" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em43" spans="3155~3163" text="Flag Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em44" spans="3181~3190" text="President" TYPE="Who" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em45" spans="3287~3304" text="Stars and Stripes" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em46" spans="3396~3399" text="day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em47" spans="3413~3417" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em48" spans="3555~3581" text="elementary school children" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em49" spans="3612~3632" text="Pledge of Allegiance" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em51" spans="3691~3697" text="people" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em52" spans="3792~3798" text="people" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em53" spans="3866~3872" text="Pledge" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em54" spans="3910~3916" text="pledge" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em55" spans="4020~4056" text="9th Circuit Federal Court of Appeals" TYPE="Who" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em56" spans="4101~4123" text="public school children" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em57" spans="4135~4155" text="Pledge of Allegiance" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em58" spans="4238~4244" text="pledge" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em59" spans="4284~4290" text="pledge" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em60" spans="4320~4324" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em62" spans="4469~4478" text="Americans" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em63" spans="4488~4511" text="treatment of their flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em64" spans="4623~4637" text="code of ethics" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em65" spans="4686~4690" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em66" spans="4714~4727" text="national flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em67" spans="4842~4846" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em68" spans="5058~5063" text="flags" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em69" spans="5214~5218" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em70" spans="5292~5296" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em71" spans="5539~5548" text="treatment" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em72" spans="5556~5560" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em73" spans="5643~5648" text="flags" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em74" spans="5683~5688" text="flags" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em75" spans="5829~5842" text="American flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em76" spans="6039~6043" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em77" spans="6219~6223" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em78" spans="6387~6391" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em79" spans="6413~6433" text="U.S. national anthem" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em80" spans="6527~6544" text="Francis Scott Key" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em81" spans="6633~6637" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em82" spans="6701~6716" text="national anthem" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em84" spans="6757~6761" text="flag" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad1" spans="367~410" text="after winning an international sports event" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad2" spans="547~557" text="until 1912" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad3" spans="1057~1100" text="at the headquarters of the Continental Army" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad4" spans="1101~1119" text="on January 1, 1776" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad5" spans="1177~1201" text="in the upper left corner" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad6" spans="1246~1262" text="On June 14, 1777" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad7" spans="1264~1301" text="after the Declaration of Independence" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad8" spans="1961~1976" text="in Pennsylvania" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad9" spans="2329~2339" text="until 1877" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad10" spans="2341~2353" text="In that year" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad11" spans="2355~2365" text="on June 14" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad12" spans="2585~2601" text="over their doors" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad13" spans="2605~2625" text="outside the building" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad14" spans="2626~2642" text="long before this" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad15" spans="2648~2655" text="in 1890" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad17" spans="2965~2972" text="In 1916" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad18" spans="3044~3058" text="In August 1949" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad19" spans="3219~3225" text="yearly" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad20" spans="3427~3452" text="from all public buildings" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad21" spans="3472~3488" text="in public places" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad22" spans="3516~3540" text="in some towns and cities" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad23" spans="3543~3553" text="Until 2002" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad24" spans="3582~3599" text="across the nation" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad25" spans="3633~3653" text="in front of the flag" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad26" spans="3654~3675" text="every weekday morning" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad27" spans="3761~3785" text="in the U.S. Constitution" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad28" spans="3873~3880" text="in 1954" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad29" spans="3998~4014" text="on June 25, 2002" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad30" spans="4410~4419" text="under God" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad31" spans="4527~4546" text="in the 20th century" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad32" spans="4744~4770" text="between sunrise and sunset" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad33" spans="4779~4804" text="on some special occasions" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad34" spans="4847~4861" text="24 hours a day" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad35" spans="4897~4905" text="at night" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad36" spans="5015~5034" text="on an American flag" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad37" spans="5125~5138" text="in ceremonies" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad38" spans="5504~5533" text="in every country of the world" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad39" spans="5595~5612" text="In the late 1960s" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad40" spans="5689~5711" text="around their shoulders" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad41" spans="5649~5671" text="sewn to their clothing" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad42" spans="5843~5875" text="in front of the Capitol Building" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad43" spans="5876~5894" text="in Washington, D.C" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad44" spans="5924~5942" text="In the early 1990s" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad46" spans="6435~6452" text="In September 1814" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad47" spans="6454~6510" text="during the War of 1812 between the British and Americans" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad48" spans="6568~6591" text="in the Baltimore Harbor" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad49" spans="6593~6621" text="The morning after the battle" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad50" spans="6793~6826" text="at the Museum of American History" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad51" spans="6827~6847" text="in Washington, D.C. " TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<entity_definition id="ed0" spans="11~19" text="June 14 " TYPE="Other" comment="" />
+<entity_definition id="ed1" spans="39~70" text="not merely symbols of a country" TYPE="Predicative" comment="" />
+<entity_definition id="ed2" spans="571~588" text="Stars and Stripes" TYPE="Appositive" comment="" />
+<entity_definition id="ed3" spans="595~604" text="Old Glory" TYPE="Appositive" comment="" />
+<entity_definition id="ed4" spans="619~698" text="one of the more complicated in the world, requiring 64 pieces of fabric to make" TYPE="Predicative" comment="" />
+<entity_definition id="ed5" spans="765~800" text="representing the original 13 states" TYPE="Other" comment="Parenthetical" />
+<entity_definition id="ed6" spans="819~872" text="each star representing one of the states of the Union" TYPE="Other" comment="Parenthetical" />
+<entity_definition id="ed7" spans="1002~1013" text="Grand Union" TYPE="Appositive" comment="" />
+<entity_definition id="ed8" spans="1164~1174" text="Union Jack" TYPE="Appositive" comment="" />
+<entity_definition id="ed9" spans="1547~1566" text="thirteen new states" TYPE="Predicative" comment="" />
+<entity_definition id="ed10" spans="1840~1852" text="a seamstress" TYPE="Appositive" comment="" />
+<entity_definition id="ed11" spans="2788~2795" text="June 14" TYPE="Appositive" comment="" />
+<entity_definition id="ed12" spans="2829~2844" text="an annual event" TYPE="Appositive" comment="" />
+<entity_definition id="ed13" spans="3019~3041" text="a national celebration" TYPE="Other" comment="" />
+<entity_definition id="ed14" spans="3144~3151" text="June 14" TYPE="Appositive" comment="" />
+<entity_definition id="ed15" spans="6227~6284" text="one of the nation’s most powerful and significant symbols" TYPE="Predicative" comment="" />
+<entity_definition id="ed16" spans="6302~6349" text="celebrated every June 14th in the United States" TYPE="Other" comment="" />
+<entity_definition id="ed17" spans="6512~6520" text="a lawyer" TYPE="Predicative" comment="" />
+<entity_definition id="ed18" spans="6719~6743" text="The Star Spangled Banner" TYPE="Appositive" comment="" />
+</TAGS>
+</NLP4SLE_Specification_06.dtd>

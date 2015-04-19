@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NLP4SLE_Specification_05.dtd>
+<TEXT><![CDATA[
+
+Mother’s Day & Father’s Day
+May and June
+
+This reading includes a description of the two most celebrated family days: Mother’s Day and Father’s Day. Though National Grandparents’ Day and International Children’s Day also exist, they are not as widely celebrated in the United States as Mother’s Day and Father’s Day.
+
+Mother’s Day
+
+On the second Sunday in May, American children of all ages treat their mothers to something special. It is the day when children, young and old, try to show, in a tangible way, how much they appreciate their mothers, or those who have served as mother figures in their lives.
+
+England was one of the first countries to set aside a day to recognize mothers. In the eighteenth century when many people worked as household servants for the rich, “Mothering Sunday” was reserved for them to return home to be with their mothers. Though this custom changed when the Industrial Revolution altered people’s working and living patterns, mothers in England are still honored with a special day in March.
+
+In the United States, the idea of Mother’s Day was first introduced in 1872 by Julia Ward Howe, a famous writer and social reformer of the time. However, the establishment of an official day to honor mothers was due largely to the perseverance and love of one daughter, Anna Jarvis. Anna’s mother had provided strength and support as the family made their home in West Virginia and then Philadelphia, Pennsylvania, where Anna’s father served as a minister. As a girl, Anna had helped her mother take care of her garden, filled mostly with white carnations, her mother’s favorite flower. When Mrs. Jarvis died on May 5, 1905, Anna was determined to honor her. She asked the minister at her former church in West Virginia to give a sermon in her mother’s memory. On the same Sunday, their minister in Philadelphia also honored Mrs. Jarvis, and all mothers, with a special Mother’s Day service. Anna Jarvis began writing to members of congress, asking them to set aside a day to honor mothers. In 1910, the governor of West Virginia proclaimed the second Sunday in May as Mother’s Day. A year later, every state was celebrating it, and in 1914 President Woodrow Wilson declared the first national Mother’s Day.
+
+On Mother’s Day morning, some American children follow the tradition of serving their mothers breakfast in bed. Other children will give their mothers gifts that they have made themselves or bought in stores. Adults also give their mothers cards, gifts, and flowers—often red carnations, the official Mother’s Day flower. If their mothers are deceased, they may bring white carnations or other flowers to their gravesites. Mother’s Day is the busiest day of the year for American restaurants. On her special day, family members do not want Mom to have to cook dinner!
+
+Father’s Day
+
+The United States is one of the few countries in the world that has an official day on which fathers are honored by their children. On the third Sunday in June, fathers, and all men who act as father figures, all across the United States are given presents, treated to dinner, or otherwise made to feel special.
+
+The origin of Father’s Day is not clear. Some say that it began with a church service in West Virginia in 1908. Others say the first Father’s Day was held in Vancouver, Washington. Another story claims that the president of the Chicago Lions’ Club, Harry Meek, celebrated the first Father’s Day with his organization in 1915, choosing the third Sunday in June, the date closest to his birthday!
+
+Regardless of when the first Father’s Day occurred, the strongest promoter of the holiday was Sonora Smart Dodd of Spokane, Washington. She thought of the idea of a Father’s Day while she was listening to a Mother’s Day sermon. Mrs. Dodd felt that she had an outstanding father. He was a veteran of the Civil War. His wife had died young, and he had raised six children alone, without their mother. When Mrs. Dodd became an adult she recognized with great appreciation the sacrifices her father had made, and the remarkable job he had done as a single parent.
+
+In 1909, Mrs. Dodd approached her minister and others in Spokane about having a church service dedicated to fathers on June 5, her father’s birthday. That date was too soon for her minister to prepare the service, so he presented it a few weeks later on June 19th. From then on, the state of Washington celebrated the third Sunday in June as Father’s Day. Children made special desserts, or visited their fathers if they lived apart.
+
+States and organizations began lobbying Congress to declare an annual Father’s Day. In 1916, President Woodrow Wilson approved of this idea, but it was not until 1924 that President Calvin Coolidge made it a national event. He declared that the official recognition of Father’s Day was to “establish more intimate relations between fathers and their children and to impress upon fathers the full measure of their obligations.” Since then, fathers have been honored and recognized by their families throughout the country on the third Sunday in June. In 1966, President Lyndon Johnson signed a presidential proclamation making Father’s Day a national commemorative day.
+
+When children can’t visit their fathers, they usually contact them by telephone or email, or they may send a greeting card. The cards might be traditional and sentimental, or whimsical so fathers laugh when they open them. Father’s Day gifts may be store-bought or hand-made, and traditional gifts might include a tie, shirt, sports item, or a child’s own drawing. Some children give their fathers heartfelt thanks for always being there when they needed “Dad.”
+]]></TEXT>
+<TAGS>
+<entity_mention id="em0" spans="2~29" text="Mother’s Day &amp; Father’s Day" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em1" spans="30~42" text="May and June" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em2" spans="320~332" text="Mother’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em3" spans="2808~2820" text="Father’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em4" spans="91~118" text="most celebrated family days" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em5" spans="120~149" text="Mother’s Day and Father’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em6" spans="288~317" text="Mother’s Day and Father’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em7" spans="445~448" text="day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em8" spans="665~668" text="day" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em9" spans="778~794" text="Mothering Sunday" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em10" spans="1007~1018" text="special day" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em11" spans="1290~1298" text="daughter" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em12" spans="1300~1311" text="Anna Jarvis" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em13" spans="1313~1317" text="Anna" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em14" spans="1451~1455" text="Anna" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em15" spans="1498~1502" text="Anna" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em16" spans="1655~1659" text="Anna" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em17" spans="1922~1933" text="Anna Jarvis" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em18" spans="2075~2095" text="second Sunday in May" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em19" spans="2099~2111" text="Mother’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em20" spans="2209~2236" text="first national Mother’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em21" spans="1230~1237" text="mothers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em22" spans="1320~1326" text="mother" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em23" spans="1518~1524" text="mother" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em24" spans="1591~1597" text="mother" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em26" spans="1774~1780" text="mother" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em27" spans="1855~1866" text="Mrs. Jarvis" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em28" spans="1876~1883" text="mothers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em29" spans="2012~2019" text="mothers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em30" spans="2515~2525" text="carnations" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em31" spans="2531~2559" text="official Mother’s Day flower" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em32" spans="2613~2623" text="carnations" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em33" spans="2662~2674" text="Mother’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em34" spans="611~618" text="England" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em35" spans="2822~2839" text="The United States" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em36" spans="3139~3161" text="origin of Father’s Day" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em37" spans="3262~3280" text="first Father’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em38" spans="3411~3429" text="first Father’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em39" spans="3474~3494" text="third Sunday in June" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em40" spans="3554~3572" text="first Father’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em41" spans="3613~3620" text="holiday" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em42" spans="3625~3665" text="Sonora Smart Dodd of Spokane, Washington" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em43" spans="3696~3708" text="Father’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em44" spans="3759~3768" text="Mrs. Dodd" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em45" spans="3802~3808" text="father" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em46" spans="4019~4025" text="father" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em47" spans="4101~4110" text="Mrs. Dodd" TYPE="Who" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em48" spans="4200~4207" text="fathers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em49" spans="4223~4229" text="father" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em50" spans="4410~4430" text="third Sunday in June" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em51" spans="4434~4446" text="Father’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em52" spans="4497~4504" text="fathers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em53" spans="4590~4609" text="annual Father’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em54" spans="4735~4749" text="national event" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em55" spans="4772~4808" text="official recognition of Father’s Day" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em56" spans="5153~5165" text="Father’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em57" spans="5168~5194" text="national commemorative day" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em58" spans="5420~5438" text="Father’s Day gifts" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em59" spans="5477~5494" text="traditional gifts" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad0" spans="264~284" text="in the United States" TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad1" spans="334~354" text="On the second Sunday" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad2" spans="355~361" text="in May" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad3" spans="691~716" text="In the eighteenth century" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad5" spans="886~961" text="when the Industrial Revolution altered people’s working and living patterns" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad6" spans="1019~1027" text="in March" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad7" spans="1030~1050" text="In the United States" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad8" spans="1098~1105" text="in 1872" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad9" spans="1391~1443" text="in West Virginia and then Philadelphia, Pennsylvania" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad11" spans="1617~1653" text="When Mrs. Jarvis died on May 5, 1905" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad12" spans="1733~1749" text="in West Virginia" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad13" spans="1791~1809" text="On the same Sunday" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad14" spans="1826~1841" text="in Philadelphia" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad15" spans="1712~1732" text="at her former church" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad16" spans="2021~2028" text="In 1910" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad18" spans="2113~2125" text="A year later" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad19" spans="2163~2170" text="in 1914" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad20" spans="2239~2262" text="On Mother’s Day morning" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad21" spans="2343~2349" text="in bed" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad22" spans="2437~2446" text="in stores" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad23" spans="2641~2660" text="to their gravesites" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad24" spans="2732~2750" text="On her special day" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad25" spans="2954~2973" text="On the third Sunday" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad26" spans="2974~2981" text="in June" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad27" spans="3035~3059" text="across the United States" TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad28" spans="3221~3237" text="in West Virginia" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad29" spans="3238~3245" text="in 1908" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad30" spans="3290~3314" text="in Vancouver, Washington" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad31" spans="3452~3459" text="in 1915" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad33" spans="3930~3960" text="When Mrs. Dodd became an adult" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad34" spans="4092~4099" text="In 1909" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad35" spans="4146~4156" text="in Spokane" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad36" spans="4208~4217" text="on June 5" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad37" spans="4325~4342" text="a few weeks later" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad38" spans="4343~4355" text="on June 19th" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad39" spans="4357~4369" text="From then on" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad41" spans="4611~4618" text="In 1916" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad42" spans="4683~4693" text="until 1924" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad43" spans="4954~4964" text="Since then" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad44" spans="5025~5047" text="throughout the country" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad45" spans="5048~5067" text="on the third Sunday" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad46" spans="5068~5075" text="in June" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad47" spans="5077~5084" text="In 1966" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad48" spans="5399~5418" text="when they open them" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad49" spans="5635~5658" text="when they needed “Dad.”" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad50" spans="5629~5634" text="there" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad51" spans="5197~5236" text="When children can’t visit their fathers" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad52" spans="971~981" text="in England" TYPE="" META_TYPE="Sub-Topic" comment="" />
+<entity_definition id="ed0" spans="66~149" text="a description of the two most celebrated family days: Mother’s Day and Father’s Day" TYPE="Other" comment="" />
+<entity_definition id="ed1" spans="441~608" text="the day when children, young and old, try to show, in a tangible way, how much they appreciate their mothers, or those who have served as mother figures in their lives" TYPE="Predicative" comment="" />
+<entity_definition id="ed2" spans="120~149" text="Mother’s Day and Father’s Day" TYPE="Appositive" comment="" />
+<entity_definition id="ed3" spans="623~689" text="one of the first countries to set aside a day to recognize mothers" TYPE="Predicative" comment="" />
+<entity_definition id="ed4" spans="1126~1173" text="a famous writer and social reformer of the time" TYPE="Appositive" comment="" />
+<entity_definition id="ed5" spans="1475~1485" text="a minister" TYPE="Other" comment="" />
+<entity_definition id="ed6" spans="1490~1496" text="a girl" TYPE="Other" comment="" />
+<entity_definition id="ed7" spans="1587~1615" text="her mother’s favorite flower" TYPE="Appositive" comment="" />
+<entity_definition id="ed8" spans="2099~2111" text="Mother’s Day" TYPE="Other" comment="" />
+<entity_definition id="ed9" spans="2527~2559" text="the official Mother’s Day flower" TYPE="Appositive" comment="" />
+<entity_definition id="ed10" spans="2678~2730" text="the busiest day of the year for American restaurants" TYPE="Predicative" comment="" />
+<entity_definition id="ed11" spans="2843~2952" text="one of the few countries in the world that has an official day on which fathers are honored by their children" TYPE="Predicative" comment="" />
+<entity_definition id="ed12" spans="3496~3528" text="the date closest to his birthday" TYPE="Appositive" comment="" />
+<entity_definition id="ed13" spans="3625~3665" text="Sonora Smart Dodd of Spokane, Washington" TYPE="Predicative" comment="" />
+<entity_definition id="ed14" spans="3817~3843" text="a veteran of the Civil War" TYPE="Predicative" comment="" />
+<entity_definition id="ed15" spans="4076~4089" text="single parent" TYPE="Relative" comment="" />
+<entity_definition id="ed16" spans="4219~4240" text="her father’s birthday" TYPE="Appositive" comment="" />
+<entity_definition id="ed17" spans="4434~4446" text="Father’s Day" TYPE="Other" comment="" />
+<entity_definition id="ed18" spans="4733~4749" text="a national event" TYPE="Other" comment="" />
+<entity_definition id="ed19" spans="5166~5194" text="a national commemorative day" TYPE="Other" comment="" />
+<entity_definition id="ed20" spans="5509~5560" text="a tie, shirt, sports item, or a child’s own drawing" TYPE="Other" comment="" />
+</TAGS>
+</NLP4SLE_Specification_05.dtd>

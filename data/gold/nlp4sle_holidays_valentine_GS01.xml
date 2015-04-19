@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NLP4SLE_Specification_05.dtd>
+<TEXT><![CDATA[
+
+Valentine’s Day
+February 14
+
+Valentine’s Day has roots in several different legends that have found their way to us through the ages. One of the earliest popular symbols of the day is Cupid, the Roman god of Love, who is represented by the image of a young cherub with bow and arrow. 
+
+Valentine’s Day is named after a Roman martyr named Valentine. Actually, there are two Valentines in the history of Roman martyrs. One was a Christian priest, who lived around 300 AD. He had been thrown in prison for his teachings, and for refusing to worship the Roman gods. He also supposedly cured the jailer’s daughter of her blindness. On February 14, this Valentine was beheaded. As the story goes, the night before he was executed, he wrote the jailer’s daughter a farewell letter, signing it, “From Your Valentine.” 
+
+The other Valentine was an Italian bishop who lived at about the same time. It is believed that he was imprisoned because he secretly married couples, contrary to the laws of the Roman emperor. Young men were forbidden to marry until they had served as soldiers. This Valentine was also reportedly beheaded, becoming a martyr for the cause of love. 
+
+Around February 14 there was a yearly Roman holiday, “Lupercalia,” held near the caves of Lupercal—the place where the mythical founders of Rome—Romulus and Remus—were nursed as infants by a wolf. The date of this holiday, the association with fertility, and the belief that young men randomly chose the name of a young girl to escort to the festivities, may link the ancient festival with Valentine’s Day. 
+
+The custom of choosing a sweetheart on this date spread through Europe in the Middle Ages, and then to the early American colonies. During the 1700s, on Valentine’s Day young men wrote the name of their sweetheart on their sleeve, a practice that is probably the origin of the saying, “wearing his heart on his sleeve.” Throughout the ages, people also believed that birds picked their mates on February 14! 
+
+Whatever the odd mixture of origins, Valentine’s Day is now a day for sweethearts. It is the day that you show your friend or loved one that you care. You can send candy to someone you think is special. Or you can send flowers, particularly red roses, which are the flowers of love. Most people send their “valentines” a greeting card. These greeting cards are also called “valentines” after the notes that one St. Valentine wrote from jail. Valentine’s Day cards can be sentimental, romantic, and heartfelt. They can be funny and friendly. If the sender is shy, the valentine can be anonymous, or signed “Your Secret Admirer.” 
+
+Americans of all ages love to send and receive valentines. Valentines are often heart-shaped, or have drawings of hearts or Cupid, the symbols of love, on them. In some elementary schools, children bring or make valentines for all their classmates and put them in a large decorated box, similar to a mailbox. On February 14, the teacher opens the box and distributes the valentines to each student. After the students read their valentines, they have a small party with refreshments. Handmade valentines, often created by cutting hearts out of colored paper and decorating them with lace, ribbon, or other material, show that a lot of thought was put into making them personal. 
+
+People often write a short rhyme inside a homemade valentine, such as: 
+
+Roses are red, 
+
+Violets are blue 
+
+Sugar is sweet And so are you! 
+
+For people of all ages, newspapers throughout the country have a Valentine’s Day offer. Anyone can send in a message destined for a would-be sweetheart, a good friend, a son or daughter, a parent, an acquaintance, or even a spouse of fifty years. For a small fee, the message is printed in a special section of the newspaper on February 14. Even if no one writes one for you, these messages are fun and heart-warming to read. They often include pet names such as “sugar lump,” “teddy bear,” “sweetie pie,” or “honey.” People sometimes abbreviate words such as writing “4-ever” for “forever.”
+]]></TEXT>
+<TAGS>
+<entity_mention id="em0" spans="2~17" text="Valentine’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em1" spans="18~30" text="February 14 " TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em2" spans="31~46" text="Valentine’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em3" spans="51~56" text="roots" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em4" spans="78~85" text="legends" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em5" spans="108~111" text="way" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em6" spans="130~134" text="ages" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em7" spans="147~171" text="earliest popular symbols" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em8" spans="179~182" text="day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em9" spans="186~191" text="Cupid" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em10" spans="197~214" text="Roman god of Love" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em11" spans="242~247" text="image" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em12" spans="259~265" text="cherub" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em13" spans="271~284" text="bow and arrow" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em14" spans="288~303" text="Valentine’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em15" spans="321~349" text="Roman martyr named Valentine" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em16" spans="375~385" text="Valentines" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em17" spans="393~417" text="history of Roman martyrs" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em18" spans="429~445" text="Christian priest" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em19" spans="494~500" text="prison" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em20" spans="509~518" text="teachings" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em21" spans="552~562" text="Roman gods" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em22" spans="593~599" text="jailer" TYPE="Who" PRO="he" META_TYPE="" comment="" />
+<entity_mention id="em23" spans="602~610" text="daughter" TYPE="Who" PRO="she" META_TYPE="" comment="" />
+<entity_mention id="em24" spans="618~627" text="blindness" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em25" spans="650~659" text="Valentine" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em26" spans="681~686" text="story" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em27" spans="740~746" text="jailer" TYPE="Who" PRO="he" META_TYPE="" comment="" />
+<entity_mention id="em28" spans="749~757" text="daughter" TYPE="Who" PRO="she" META_TYPE="" comment="" />
+<entity_mention id="em29" spans="760~775" text="farewell letter" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em30" spans="800~809" text="Valentine" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em31" spans="824~833" text="Valentine" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em32" spans="841~855" text="Italian bishop" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em33" spans="956~963" text="couples" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em34" spans="981~985" text="laws" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em35" spans="993~1006" text="Roman emperor" TYPE="Who" PRO="he" META_TYPE="" comment="" />
+<entity_mention id="em36" spans="1008~1017" text="Young men" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em37" spans="1067~1075" text="soldiers" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em38" spans="1082~1091" text="Valentine" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em39" spans="1133~1139" text="martyr" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em40" spans="1148~1161" text="cause of love" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em41" spans="1196~1216" text="yearly Roman holiday" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em42" spans="1219~1229" text="Lupercalia" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em43" spans="1246~1263" text="caves of Lupercal" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em44" spans="1366~1370" text="date" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em45" spans="1379~1386" text="holiday" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em46" spans="1268~1273" text="place" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em47" spans="1284~1309" text="mythical founders of Rome" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em48" spans="1310~1327" text="Romulus and Remus" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em49" spans="1343~1350" text="infants" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em50" spans="1356~1360" text="wolf" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em51" spans="1392~1418" text="association with fertility" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em52" spans="1428~1434" text="belief" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em53" spans="1440~1449" text="young men" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em54" spans="1469~1473" text="name" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em55" spans="1479~1489" text="young girl" TYPE="Who" PRO="she" META_TYPE="" comment="" />
+<entity_mention id="em56" spans="1507~1518" text="festivities" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em57" spans="1533~1549" text="ancient festival" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em58" spans="1555~1570" text="Valentine’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em59" spans="1578~1609" text="custom of choosing a sweetheart" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em60" spans="1743~1752" text="young men" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em61" spans="1763~1767" text="name" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em62" spans="1777~1787" text="sweetheart" TYPE="Who" PRO="she" META_TYPE="" comment="" />
+<entity_mention id="em63" spans="1797~1803" text="sleeve" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em64" spans="1807~1815" text="practice" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em65" spans="1837~1843" text="origin" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em66" spans="1851~1893" text="saying, “wearing his heart on his sleeve.”" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em67" spans="1872~1877" text="heart" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em68" spans="1885~1891" text="sleeve" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em69" spans="1915~1921" text="people" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em70" spans="1941~1946" text="birds" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em71" spans="1960~1965" text="mates" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em72" spans="2001~2019" text="mixture of origins" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em73" spans="2021~2036" text="Valentine’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em74" spans="2046~2065" text="day for sweethearts" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em75" spans="2077~2080" text="day" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em76" spans="2100~2106" text="friend" TYPE="Who" PRO="Unknown" META_TYPE="" comment="" />
+<entity_mention id="em77" spans="2110~2119" text="loved one" TYPE="Who" PRO="Unknown" META_TYPE="" comment="" />
+<entity_mention id="em78" spans="2148~2153" text="candy" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em79" spans="2203~2210" text="flowers" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em80" spans="2225~2234" text="red roses" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em81" spans="2250~2265" text="flowers of love" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em82" spans="2272~2278" text="people" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em83" spans="2291~2301" text="valentines" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em84" spans="2305~2318" text="greeting card" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em85" spans="2326~2340" text="greeting cards" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em86" spans="2358~2368" text="valentines" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em87" spans="2380~2385" text="notes" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em88" spans="2395~2408" text="St. Valentine" TYPE="Who" PRO="he" META_TYPE="" comment="" />
+<entity_mention id="em89" spans="2420~2424" text="jail" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em90" spans="2426~2447" text="Valentine’s Day cards" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em91" spans="2532~2538" text="sender" TYPE="Who" PRO="Unknown" META_TYPE="" comment="" />
+<entity_mention id="em92" spans="2551~2560" text="valentine" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em93" spans="2595~2609" text="Secret Admirer" TYPE="Who" PRO="Unknown" META_TYPE="" comment="" />
+<entity_mention id="em94" spans="2614~2623" text="Americans" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em95" spans="2631~2635" text="ages" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em96" spans="2661~2671" text="valentines" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em97" spans="2673~2683" text="Valentines" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em98" spans="2716~2743" text="drawings of hearts or Cupid" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em99" spans="2749~2764" text="symbols of love" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em100" spans="2803~2811" text="children" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em101" spans="2826~2836" text="valentines" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em102" spans="2851~2861" text="classmates" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em103" spans="2886~2899" text="decorated box" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em104" spans="2914~2921" text="mailbox" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em105" spans="2943~2950" text="teacher" TYPE="Who" PRO="Unknown" META_TYPE="" comment="" />
+<entity_mention id="em106" spans="2961~2964" text="box" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em107" spans="2985~2995" text="valentines" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em108" spans="3004~3011" text="student" TYPE="Who" PRO="Unknown" META_TYPE="" comment="" />
+<entity_mention id="em109" spans="3073~3078" text="party" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em110" spans="3084~3096" text="refreshments" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em111" spans="3098~3117" text="Handmade valentines" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em112" spans="3144~3150" text="hearts" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em113" spans="3158~3171" text="colored paper" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em114" spans="3197~3228" text="lace, ribbon, or other material" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em115" spans="3249~3256" text="thought" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em116" spans="3294~3300" text="People" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em117" spans="3315~3326" text="short rhyme" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em118" spans="3336~3354" text="homemade valentine" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em119" spans="3367~3372" text="Roses" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em120" spans="3384~3391" text="Violets" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em121" spans="3403~3408" text="Sugar" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em122" spans="3440~3446" text="people" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em123" spans="3454~3458" text="ages" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em124" spans="3460~3470" text="newspapers" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em125" spans="3501~3522" text="Valentine’s Day offer" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em126" spans="3545~3552" text="message" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em127" spans="3566~3681" text="a would-be sweetheart, a good friend, a son or daughter, a parent, an acquaintance, or even a spouse of fifty years" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em128" spans="3695~3698" text="fee" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em129" spans="3704~3711" text="message" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em130" spans="3728~3743" text="special section" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em131" spans="3751~3760" text="newspaper" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em132" spans="3818~3826" text="messages" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em133" spans="3881~3890" text="pet names" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em134" spans="3899~3953" text="“sugar lump,” “teddy bear,” “sweetie pie,” or “honey.”" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em135" spans="3954~3960" text="People" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em136" spans="3982~3987" text="words" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<adverbial id="ad0" spans="457~470" text="around 300 AD" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad1" spans="629~643" text="On February 14" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad2" spans="866~888" text="at about the same time" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad3" spans="1165~1183" text="Around February 14" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad4" spans="1237~1263" text="near the caves of Lupercal" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad5" spans="1610~1622" text="on this date" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad6" spans="1630~1644" text="through Europe" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad7" spans="1645~1663" text="in the Middle Ages" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad8" spans="1674~1704" text="to the early American colonies" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad9" spans="1706~1722" text="During the 1700s" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad10" spans="1724~1742" text="on Valentine’s Day" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad11" spans="1894~1913" text="Throughout the ages" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad12" spans="1966~1980" text="on February 14" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad13" spans="2775~2801" text="In some elementary schools" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad14" spans="2923~2937" text="On February 14" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad15" spans="3013~3053" text="After the students read their valentines" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad16" spans="3471~3493" text="throughout the country" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad17" spans="3761~3775" text="on February 14" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad18" spans="693~725" text="the night before he was executed" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<entity_definition id="ed0" spans="186~191" text="Cupid" TYPE="Predicative" comment="" />
+<entity_definition id="ed1" spans="193~214" text="the Roman god of Love" TYPE="Appositive" comment="" />
+<entity_definition id="ed2" spans="427~470" text="a Christian priest, who lived around 300 AD" TYPE="Predicative" comment="" />
+<entity_definition id="ed3" spans="838~888" text="an Italian bishop who lived at about the same time" TYPE="Predicative" comment="" />
+<entity_definition id="ed4" spans="1131~1161" text="a martyr for the cause of love" TYPE="Predicative" comment="" />
+<entity_definition id="ed5" spans="1264~1360" text="the place where the mythical founders of Rome—Romulus and Remus—were nursed as infants by a wolf" TYPE="Appositive" comment="" />
+<entity_definition id="ed6" spans="1310~1327" text="Romulus and Remus" TYPE="Appositive" comment="" />
+<entity_definition id="ed7" spans="1824~1893" text="probably the origin of the saying, “wearing his heart on his sleeve.”" TYPE="Relative" comment="" />
+<entity_definition id="ed8" spans="2044~2065" text="a day for sweethearts" TYPE="Predicative" comment="" />
+<entity_definition id="ed9" spans="2073~2133" text="the day that you show your friend or loved one that you care" TYPE="Predicative" comment="" />
+<entity_definition id="ed10" spans="2246~2265" text="the flowers of love" TYPE="Relative" comment="" />
+<entity_definition id="ed11" spans="2357~2424" text="“valentines” after the notes that one St. Valentine wrote from jail" TYPE="Predicative" comment="" />
+<entity_definition id="ed12" spans="2745~2764" text="the symbols of love" TYPE="Appositive" comment="" />
+<entity_definition id="ed13" spans="3367~3434" text="Roses are red,   Violets are blue   Sugar is sweet And so are you! " TYPE="Other" comment="" />
+<entity_definition id="ed14" spans="3899~3953" text="“sugar lump,” “teddy bear,” “sweetie pie,” or “honey.”" TYPE="Other" comment="" />
+<entity_definition id="ed16" spans="1194~1216" text="a yearly Roman holiday" TYPE="Appositive" comment="" />
+</TAGS>
+</NLP4SLE_Specification_05.dtd>

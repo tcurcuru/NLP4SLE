@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NLP4SLE_Specification_05.dtd>
+<TEXT><![CDATA[
+
+Native American Powwows
+March - August
+
+A powwow is a large social gathering of Native American tribes and individuals. Every year, hundreds of powwows occur on Native American reservations and in other locations across the nation from March through August. Powwows are lively occasions that include tribal dance and dance competitions, drumming, singing, Indian foods, art, crafts, educational events, presentations, and in some areas, a rodeo. Despite the festive atmosphere, powwows are also spiritual occasions that involve rituals, blessings, and respectful protocol. These are times for Native Americans to strengthen ties of culture, community and tradition, and to celebrate heritage and history.
+
+The word “pow-wow” comes from an Algonquin Indian word “pau-wau” or “pauau,” which referred to tribal spiritual leaders and their religious and healing ceremonies. The ceremonies usually included dancing and rituals, which were sometimes seen by early European settlers and explorers. Because they did not understand Indian culture or ceremonies, they thought a “pow-wow,”—their mispronunciation of the Indian word— was any tribal gathering or event. Eventually the Anglicized word became commonly used, even among Native Americans. Now, the word “powwow” and the event itself have come to signify and embody the spirit and continuity of Native American cultures and people.
+
+Two of the most essential features of a powwow are traditional dancing and drumming. At the start of a powwow, a Dance Arbor is set up and blessed in a ritual way. After this, the Dance Arbor is considered sacred space, and may be entered only by designated individuals for dancing and other special ceremony. Dancers, wearing elaborate regalia, perform traditional dances, or participate in dance competitions, vying for top honors and prize money.
+
+The regalia worn by dancers are meticulously made, and may take years to complete. The designs and elements used may represent the dancer’s tribal affiliation, or combine features of other tribes. The outfit often includes valuable family heirlooms and sacred items such as feathers, for which there are specific rules and protocol. Some of the dancers wear bells on their wrists and ankles, which add a jingling rhythm to the dance. Others, with fancy shawls, look like delicate flying birds as they raise their arms to the beat of the drums. Grass dancers wear outfits of brightly-colored yarn or fabric representing meadow grass.
+
+The dancers are accompanied by a group of five to ten singers, collectively called “a drum.” They sit around a large drum, which they beat in unison as they sing. Some singers may also stand behind. Traditionally all singers and drummers were male, but today many women sing and drum, and some groups are all female. Many of the songs do not have words, but consist entirely of syllables, called “vocables,” which convey the deep feeling and meaning of the song. Songs are sung four times in succession, as the number four is sacred to Indian culture and represents the four directions. The drumming and singing are the core of the powwow, providing a rhythmic pulse to the event.
+
+Until the 20th century, non-Indians usually did not participate in powwows. But today, powwows are public events and open to all, providing an opportunity for Native Americans to share their culture and traditions. Non-Indians can enjoy the festivities, try new foods such as “Indian fry bread,” purchase beautiful handmade goods like jewelry of silver and turquoise, finely crafted drums and flutes, pottery, painted gourds, and traditional clothing. They can participate in some events and dances such as the Round Dance or Blanket Dance. And they can learn about the rich heritage and present day lives of America’s first inhabitants.
+
+The spirit of the powwow is a continuum in Indian life. It isn’t just for a few days in March. We live this spirit on a daily basis. It is why we have survived for so long. At one time we were a forgotten people, but I think we are getting stronger. From the powwow we gain strength as Indian people, individually and collectively, to go on into the [next] century. 
+
+— Linday Yardley 
+
+Taos Pueblo Indian
+]]></TEXT>
+<TAGS>
+<entity_mention id="em0" spans="2~25" text="Native American Powwows" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em1" spans="26~40" text="March - August" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em2" spans="44~50" text="powwow" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em3" spans="62~120" text="social gathering of Native American tribes and individuals" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em4" spans="134~153" text="hundreds of powwows" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em5" spans="260~267" text="Powwows" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em6" spans="279~288" text="occasions" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em7" spans="302~446" text="tribal dance and dance competitions, drumming, singing, Indian foods, art, crafts, educational events, presentations, and in some areas, a rodeo" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em8" spans="460~478" text="festive atmosphere" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em9" spans="480~487" text="powwows" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em10" spans="497~516" text="spiritual occasions" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em11" spans="530~573" text="rituals, blessings, and respectful protocol" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em12" spans="585~590" text="times" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em13" spans="595~611" text="Native Americans" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em14" spans="626~666" text="ties of culture, community and tradition" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em15" spans="685~705" text="heritage and history" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em16" spans="712~726" text="word 'pow-wow'" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em18" spans="741~784" text="Algonquin Indian word “pau-wau” or “pauau,”" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em19" spans="803~870" text="tribal spiritual leaders and their religious and healing ceremonies" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em20" spans="876~886" text="ceremonies" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em21" spans="904~923" text="dancing and rituals" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em22" spans="960~991" text="European settlers and explorers" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em23" spans="1025~1053" text="Indian culture or ceremonies" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em24" spans="1071~1078" text="pow-wow" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em25" spans="1132~1157" text="tribal gathering or event" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em26" spans="1087~1103" text="mispronunciation" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em27" spans="1111~1122" text="Indian word" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em28" spans="1174~1189" text="Anglicized word" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em29" spans="1223~1239" text="Native Americans" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em30" spans="1250~1263" text="word “powwow”" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em31" spans="1272~1277" text="event" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em32" spans="1321~1381" text="spirit and continuity of Native American cultures and people" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em33" spans="1395~1418" text="most essential features" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em34" spans="1424~1430" text="powwow" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em35" spans="1435~1467" text="traditional dancing and drumming" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em36" spans="1497~1508" text="Dance Arbor" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em37" spans="1536~1546" text="ritual way" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em38" spans="1564~1575" text="Dance Arbor" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em39" spans="1590~1602" text="sacred space" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em40" spans="1631~1653" text="designated individuals" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em41" spans="1658~1692" text="dancing and other special ceremony" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em42" spans="1694~1701" text="Dancers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em43" spans="1721~1728" text="regalia" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em44" spans="1738~1756" text="traditional dances" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em45" spans="1776~1794" text="dance competitions" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em46" spans="1806~1816" text="top honors" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em47" spans="1821~1832" text="prize money" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em48" spans="1839~1846" text="regalia" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em49" spans="1855~1862" text="dancers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em50" spans="1899~1904" text="years" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em51" spans="1922~1942" text="designs and elements" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em52" spans="1966~1972" text="dancer" TYPE="Who" PRO="Unknown" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em53" spans="1975~1993" text="tribal affiliation" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em54" spans="2006~2030" text="features of other tribes" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em55" spans="2036~2042" text="outfit" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em56" spans="2067~2100" text="family heirlooms and sacred items" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em57" spans="2109~2117" text="feathers" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em58" spans="2148~2166" text="rules and protocol" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em59" spans="2180~2187" text="dancers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em60" spans="2193~2198" text="bells" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em61" spans="2208~2225" text="wrists and ankles" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em62" spans="2239~2254" text="jingling rhythm" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em63" spans="2262~2267" text="dance" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em64" spans="2288~2294" text="shawls" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em65" spans="2315~2327" text="flying birds" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em66" spans="2348~2352" text="arms" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em67" spans="2360~2364" text="beat" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em68" spans="2372~2377" text="drums" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em69" spans="2379~2392" text="Grass dancers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em70" spans="2398~2440" text="outfits of brightly-colored yarn or fabric" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em71" spans="2454~2466" text="meadow grass" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em72" spans="2473~2480" text="dancers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em73" spans="2502~2507" text="group" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em74" spans="2523~2530" text="singers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em75" spans="2555~2559" text="drum" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em76" spans="2637~2644" text="singers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em77" spans="2686~2706" text="singers and drummers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em78" spans="2733~2738" text="women" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em79" spans="2763~2769" text="groups" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em80" spans="2798~2803" text="songs" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em81" spans="2816~2821" text="words" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em82" spans="2847~2856" text="syllables" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em83" spans="2866~2874" text="vocables" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em84" spans="2899~2918" text="feeling and meaning" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em85" spans="2926~2930" text="song" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em86" spans="2932~2937" text="Songs" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em87" spans="2952~2957" text="times" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em88" spans="2980~2991" text="number four" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em89" spans="3005~3019" text="Indian culture" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em90" spans="3039~3054" text="four directions" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em91" spans="3060~3080" text="drumming and singing" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em92" spans="3089~3093" text="core" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em93" spans="3101~3107" text="powwow" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em94" spans="3121~3135" text="rhythmic pulse" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em95" spans="3143~3148" text="event" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em96" spans="3175~3186" text="non-Indians" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em97" spans="3218~3225" text="powwows" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em98" spans="3238~3245" text="powwows" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em99" spans="3250~3263" text="public events" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em100" spans="3294~3305" text="opportunity" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em101" spans="3310~3326" text="Native Americans" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em102" spans="3342~3364" text="culture and traditions" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em103" spans="3366~3377" text="Non-Indians" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em104" spans="3392~3403" text="festivities" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em105" spans="3413~3418" text="foods" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em106" spans="3428~3444" text="Indian fry bread" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em107" spans="3466~3480" text="handmade goods" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em108" spans="3486~3601" text="jewelry of silver and turquoise, finely crafted drums and flutes, pottery, painted gourds, and traditional clothing" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em110" spans="3632~3638" text="events" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em111" spans="3643~3649" text="dances" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em112" spans="3662~3690" text="Round Dance or Blanket Dance" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em113" spans="3726~3787" text="heritage and present day lives of America’s first inhabitants" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em114" spans="3794~3800" text="spirit" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em115" spans="3808~3814" text="powwow" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em116" spans="3820~3829" text="continuum" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em117" spans="3833~3844" text="Indian life" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em118" spans="3870~3874" text="days" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em119" spans="3898~3904" text="spirit" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em120" spans="3985~4001" text="forgotten people" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em121" spans="4049~4055" text="powwow" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em122" spans="4064~4072" text="strength" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em123" spans="4076~4089" text="Indian people" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em124" spans="4140~4154" text="[next] century" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em125" spans="4160~4174" text="Linday Yardley" TYPE="Who" PRO="she" META_TYPE="" comment="" />
+<entity_mention id="em126" spans="4177~4195" text="Taos Pueblo Indian" TYPE="Who" PRO="she" META_TYPE="" comment="" />
+<adverbial id="ad0" spans="122~132" text="Every year" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad1" spans="160~191" text="on Native American reservations" TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad2" spans="196~232" text="in other locations across the nation" TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad3" spans="233~258" text="from March through August" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad5" spans="1241~1244" text="Now" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad6" spans="1469~1493" text="At the start of a powwow" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad7" spans="1548~1558" text="After this" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad8" spans="2571~2590" text="around a large drum" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad9" spans="2722~2727" text="today" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad10" spans="3151~3173" text="Until the 20th century" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad11" spans="3231~3236" text="today" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad12" spans="3875~3883" text="in March" TYPE="" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad13" spans="3905~3921" text="on a daily basis" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad14" spans="3950~3961" text="for so long" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad15" spans="3963~3974" text="At one time" TYPE="When" META_TYPE="" comment="" />
+<entity_definition id="ed0" spans="54~120" text="a large social gathering of Native American tribes and individuals" TYPE="Predicative" comment="" />
+<entity_definition id="ed1" spans="268~446" text="are lively occasions that include tribal dance and dance competitions, drumming, singing, Indian foods, art, crafts, educational events, presentations, and in some areas, a rodeo" TYPE="Predicative" comment="" />
+<entity_definition id="ed2" spans="302~446" text="tribal dance and dance competitions, drumming, singing, Indian foods, art, crafts, educational events, presentations, and in some areas, a rodeo" TYPE="Other" comment="" />
+<entity_definition id="ed3" spans="497~573" text="spiritual occasions that involve rituals, blessings, and respectful protocol" TYPE="Predicative" comment="" />
+<entity_definition id="ed4" spans="530~574" text="rituals, blessings, and respectful protocol." TYPE="Other" comment="" />
+<entity_definition id="ed5" spans="585~705" text="times for Native Americans to strengthen ties of culture, community and tradition, and to celebrate heritage and history" TYPE="Predicative" comment="" />
+<entity_definition id="ed6" spans="803~870" text="tribal spiritual leaders and their religious and healing ceremonies" TYPE="Relative" comment="" />
+<entity_definition id="ed7" spans="904~923" text="dancing and rituals" TYPE="Other" comment="" />
+<entity_definition id="ed8" spans="1081~1122" text="their mispronunciation of the Indian word" TYPE="Appositive" comment="" />
+<entity_definition id="ed9" spans="1435~1467" text="traditional dancing and drumming" TYPE="Predicative" comment="" />
+<entity_definition id="ed10" spans="1590~1602" text="sacred space" TYPE="Predicative" comment="" />
+<entity_definition id="ed11" spans="2058~2117" text="valuable family heirlooms and sacred items such as feathers" TYPE="Other" comment="" />
+<entity_definition id="ed12" spans="2866~2874" text="vocables" TYPE="Relative" comment="" />
+<entity_definition id="ed13" spans="3085~3107" text="the core of the powwow" TYPE="Predicative" comment="" />
+<entity_definition id="ed14" spans="3250~3279" text="public events and open to all" TYPE="Predicative" comment="" />
+<entity_definition id="ed15" spans="3818~3844" text="a continuum in Indian life" TYPE="Predicative" comment="" />
+</TAGS>
+</NLP4SLE_Specification_05.dtd>
