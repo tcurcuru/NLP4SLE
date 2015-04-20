@@ -22,3 +22,14 @@ def strip_out_text():
         text = soup.get_text()
         with open( f[:-4] + '.txt', "w+", encoding='utf-8') as out_file:
             out_file.write(text)
+            
+def remove_returns():
+    for f in os.listdir(RAW_PATH):
+        with open( os.path.join(RAW_PATH, f), "r", encoding='utf-8') as in_file:
+            text = "\n"
+            for line in in_file:
+                text += line.replace('\r', '')
+            with open(f[:-4] + "_fixed.txt", "w+", encoding='utf-8') as out_file:
+                out_file.write(text)
+
+remove_returns()
