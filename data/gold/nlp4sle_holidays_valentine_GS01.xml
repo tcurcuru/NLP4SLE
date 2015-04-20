@@ -31,7 +31,7 @@ For people of all ages, newspapers throughout the country have a Valentine’s D
 ]]></TEXT>
 <TAGS>
 <entity_mention id="em0" spans="2~17" text="Valentine’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
-<entity_mention id="em1" spans="18~30" text="February 14 " TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em1" spans="18~29" text="February 14" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
 <entity_mention id="em2" spans="31~46" text="Valentine’s Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
 <entity_mention id="em3" spans="51~56" text="roots" TYPE="What" PRO="they" META_TYPE="" comment="" />
 <entity_mention id="em4" spans="78~85" text="legends" TYPE="What" PRO="they" META_TYPE="" comment="" />
