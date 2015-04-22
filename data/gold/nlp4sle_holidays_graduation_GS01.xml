@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NLP4SLE_Specification_05.dtd>
+<TEXT><![CDATA[
+
+Graduation
+May - June
+
+Graduation ceremonies celebrate the completion of one part of a person’s education. The ceremony marks a transition from one stage in a student’s life to another. A university graduation ceremony is also called “commencement” since it is a recognition that a student is beginning a new phase of life. Typically, the most important graduations are when a student completes high school (secondary school), college, or university. However, it is becoming more common to see graduations for young children at pre-school or kindergarten, and other children who finish their sixth or eighth year of schooling.
+
+Most graduations in the United States occur in May and June, but some are as early as mid-April or as late as the first week in July. Mid-year college graduation ceremonies typically are in December or January.
+
+At a typical graduation ceremony, students (as well as the teachers and professors) wear the traditional cap and gown. The gowns, also called robes, typically are mid-calf in length with bell-shaped sleeves. Usually university gowns are black, but the gowns used in high school ceremonies may reflect school colors. A gown worn by a person with a doctorate degree has three black velvet stripes on each sleeve, and a velvet strip running down the front of the gown.
+
+The academic cap usually has a flat top and is also known as a “mortarboard.” The cap also has a tassel suspended from a button in the top center. When properly worn, the cap is parallel to the ground, though some people, especially women, wear it angled back. While traditions vary, in the United States it is common for university undergraduate students to begin the commencement ceremony with their tassels on the right. Once the administrator has announced that these students are now officially graduates, they move the tassel to the left side of their cap. Switching the tassel to the left is done individually in some ceremonies or as a group in others. From this point on, if a student wears a mortarboard again to receive a higher level graduate degree, he or she continues to wear the tassel on the left. Depending on the level of schooling and the institution, the tassel’s color may represent the school, the field of study, or simply be decorative.
+
+The academic hood is the identifying symbol of an advanced degree, and the colors identify the college that is awarding the degree. Though it is called a “hood” it actually resembles a cape draped over one’s back. The color of the velvet strip indicates the field of study in which the individual’s most advanced degree was earned. The most frequently seen colors are white for liberal arts, yellow for science, light blue for education, pink for music, lemon yellow for library science, drab blue for business, black and white for journalism, purple for law, scarlet for divinity, blue for philosophy, and green for medicine.
+
+When students receive their degrees, they usually march onto a stage or platform to listen to speeches before receiving their diplomas. In American high schools, colleges, and universities, the speakers may include the salutatorian (the student who has the second-highest average grades in the graduating class), an alumnus of the institution, or possibly a famous speaker not associated with the institution, and the valedictorian (the student with the highest grade point average in the graduating class). Common themes of graduation speeches include wishing the graduates well in the “real world,” celebrating an incredible achievement, and letting them know that life after school is not the end of the world—in fact, it’s the beginning.
+
+The giving of diplomas usually takes up the longest portion of the ceremony. One by one the graduates come forward as their names are called. Sometimes the announcer will give the graduate’s major field of study. An academic administrator or official, such as the principal or school superintendent of a high school, or the dean of the college, gives each student a diploma and shakes his or her hand. After the awarding of diplomas, a school official announces that these students are now graduates; usually there is much clapping and cheering from the graduates, the school’s teachers and administrators, and the graduates’ friends and families. Sometimes the graduates throw their caps into the air. After the ceremony, there are often dinners and parties to honor the new grads.
+]]></TEXT>
+<TAGS>
+<entity_mention id="em0" spans="2~12" text="Graduation" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em1" spans="13~23" text="May - June" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em2" spans="25~46" text="Graduation ceremonies" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em3" spans="113~121" text="ceremony" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em4" spans="190~220" text="university graduation ceremony" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em7" spans="340~367" text=" most important graduations" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em8" spans="496~507" text="graduations" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em9" spans="635~646" text="graduations" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em10" spans="764~802" text="Mid-year college graduation ceremonies" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em11" spans="854~874" text=" graduation ceremony" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em12" spans="935~959" text="traditional cap and gown" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em13" spans="965~970" text="gowns" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em14" spans="1057~1074" text=" university gowns" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em15" spans="1094~1099" text="gowns" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em16" spans="1160~1164" text="gown" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em17" spans="1313~1325" text="academic cap" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em18" spans="1373~1384" text="mortarboard" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em19" spans="1391~1394" text="cap" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em20" spans="1480~1483" text="cap" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em21" spans="1678~1699" text="commencement ceremony" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em22" spans="1834~1840" text="tassel" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em23" spans="1711~1718" text="tassels" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em24" spans="1406~1412" text="tassel" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em25" spans="1886~1892" text="tassel" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em26" spans="2011~2022" text="mortarboard" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em27" spans="2104~2110" text="tassel" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em28" spans="2184~2199" text=" tassel’s color" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em29" spans="2276~2289" text="academic hood" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em30" spans="2427~2431" text="hood" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em31" spans="2502~2515" text=" velvet strip" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em32" spans="2490~2495" text="color" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em34" spans="2608~2636" text="most frequently seen colors " TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em35" spans="2994~3002" text="speeches" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em36" spans="3094~3102" text="speakers" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em38" spans="3414~3444" text=" themes of graduation speeches" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em40" spans="3657~3665" text="diplomas" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em41" spans="4009~4016" text="diploma" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em42" spans="3026~3034" text="diplomas" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em43" spans="4067~4075" text="diplomas" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em44" spans="4133~4142" text="graduates" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em45" spans="3735~3744" text="graduates" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em46" spans="3465~3474" text="graduates" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em47" spans="4197~4206" text="graduates" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em49" spans="4305~4314" text="graduates" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em50" spans="4419~4424" text="grads" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em51" spans="4327~4331" text="caps" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em52" spans="4258~4267" text="graduates" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em53" spans="3823~3831" text="graduate" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad0" spans="372~451" text="when a student completes high school (secondary school), college, or university" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad1" spans="647~668" text="in the United States " TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad2" spans="674~689" text="in May and June" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad3" spans="817~839" text="in December or January" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad5" spans="1592~1613" text=" in the United States" TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad6" spans="1719~1731" text="on the right" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad7" spans="1437~1454" text="in the top center" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad8" spans="1841~1870" text="to the left side of their cap" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad9" spans="1892~1904" text=" to the left" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad10" spans="1969~1988" text=" From this point on" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad11" spans="2111~2122" text="on the left" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad12" spans="2900~2935" text="When students receive their degrees" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad14" spans="2956~2980" text="onto a stage or platform" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad15" spans="3036~3088" text="In American high schools, colleges, and universities" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<entity_definition id="ed0" spans="224~324" text="also called “commencement” since it is a recognition that a student is beginning a new phase of life" TYPE="Predicative" comment="" />
+<entity_definition id="ed1" spans="1005~1048" text="mid-calf in length with bell-shaped sleeves" TYPE="Predicative" comment="" />
+<entity_definition id="ed2" spans="1079~1084" text="black" TYPE="Predicative" comment="" />
+<entity_definition id="ed3" spans="2293~2402" text="the identifying symbol of an advanced degree, and the colors identify the college that is awarding the degree" TYPE="Predicative" comment="" />
+<entity_definition id="ed4" spans="2640~2897" text="white for liberal arts, yellow for science, light blue for education, pink for music, lemon yellow for library science, drab blue for business, black and white for journalism, purple for law, scarlet for divinity, blue for philosophy, and green for medicine" TYPE="Predicative" comment="" />
+<entity_definition id="ed5" spans="3115~3406" text="the salutatorian (the student who has the second-highest average grades in the graduating class), an alumnus of the institution, or possibly a famous speaker not associated with the institution, and the valedictorian (the student with the highest grade point average in the graduating class)" TYPE="Other" comment="" />
+<entity_definition id="ed6" spans="3453~3640" text="wishing the graduates well in the “real world,” celebrating an incredible achievement, and letting them know that life after school is not the end of the world—in fact, it’s the beginning" TYPE="Other" comment="" />
+<entity_definition id="ed7" spans="972~989" text="also called robes" TYPE="Appositive" comment="" />
+</TAGS>
+</NLP4SLE_Specification_05.dtd>

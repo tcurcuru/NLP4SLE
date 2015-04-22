@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NLP4SLE_Specification_05.dtd>
+<TEXT><![CDATA[
+﻿
+Women’s History Month
+March
+
+Women’s History Month is one of the outcomes of a countywide movement in Sonoma County, California, in the 1970s that brought a focus on women into school curricula as well as into the general public’s consciousness. In 1978, the Educational Task Force of the Sonoma County (California) Commission on the Status of Women initiated a “Women’s History Week.” The week of March 8 was chosen since March 8 is International Women’s Day. As word of the movement spread, State Departments of Education across the U.S. initiated similar changes to their curricula, and encouraged celebrations of women’s history as a means of achieving equity in classrooms. In 1987 the National Women’s History Project petitioned the United States Congress to recognize the whole month of March as National Women’s History Month. Since then, every year the House of Representatives and the United States Senate approve the designation.
+
+March is celebrated with special programs and activities in schools, workplaces, and communities. Besides recognizing women’s achievements in such areas as science, math, politics, arts, and athletics, a common topic in school curricula is the women’s suffrage movement in the United States. Before 1920, women did not have the right to vote under the constitution. In the decade between 1910 and 1920, women organized and were involved in political demonstrations and marches across the United States. Though the vote was brought to the congress several times, it failed to pass. Finally in 1919, after years of picketing, petitioning, and protesting, the vote passed, resulting in the passage of the Nineteenth Amendment to the U.S. Constitution on August 26, 1920. In November 1920, women voted for the first time in a national election.
+]]></TEXT>
+<TAGS>
+<entity_mention id="em0" spans="3~24" text="Women’s History Month" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em1" spans="25~30" text="March" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em2" spans="32~53" text="Women’s History Month" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em3" spans="68~76" text="outcomes" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em4" spans="82~101" text="countywide movement" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em5" spans="160~165" text="focus" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em6" spans="169~174" text="women" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em7" spans="180~196" text="school curricula" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em8" spans="217~231" text="general public" TYPE="Who" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em9" spans="234~247" text="consciousness" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em10" spans="262~284" text="Educational Task Force" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em11" spans="292~352" text="Sonoma County (California) Commission on the Status of Women" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em12" spans="366~386" text="Women’s History Week" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em13" spans="393~408" text="week of March 8" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em14" spans="426~433" text="March 8" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em15" spans="437~462" text="International Women’s Day" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em16" spans="467~471" text="word" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em17" spans="479~487" text="movement" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em18" spans="496~526" text="State Departments of Education" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em19" spans="561~568" text="changes" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em20" spans="578~587" text="curricula" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em21" spans="604~635" text="celebrations of women’s history" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em22" spans="694~726" text="National Women’s History Project" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em23" spans="742~764" text="United States Congress" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em24" spans="788~802" text="month of March" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em25" spans="865~889" text="House of Representatives" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em26" spans="898~918" text="United States Senate" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em27" spans="931~942" text="designation" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em28" spans="945~950" text="March" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em29" spans="978~1001" text="programs and activities" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em30" spans="1063~1068" text="women" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em31" spans="1071~1083" text="achievements" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em32" spans="1101~1145" text="science, math, politics, arts, and athletics" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em33" spans="1156~1161" text="topic" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em34" spans="1165~1181" text="school curricula" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em35" spans="1189~1194" text="women" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em36" spans="1197~1214" text="suffrage movement" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em37" spans="1250~1255" text="women" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em38" spans="1273~1286" text="right to vote" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em39" spans="1297~1309" text="constitution" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em40" spans="1348~1353" text="women" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em41" spans="1385~1421" text="political demonstrations and marches" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em42" spans="1459~1463" text="vote" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em43" spans="1483~1491" text="congress" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em44" spans="1602~1606" text="vote" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em45" spans="1632~1639" text="passage" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em46" spans="1647~1692" text="Nineteenth Amendment to the U.S. Constitution" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em47" spans="1731~1736" text="women" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em48" spans="1751~1761" text="first time" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em49" spans="1767~1784" text="national election" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em50" spans="641~646" text="means" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em51" spans="660~666" text="equity" TYPE="What" PRO="it" META_TYPE="" comment="" />
+<entity_mention id="em52" spans="806~836" text="National Women’s History Month" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em53" spans="1092~1097" text="areas" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<entity_mention id="em54" spans="1500~1505" text="times" TYPE="What" PRO="they" META_TYPE="" comment="" />
+<adverbial id="ad0" spans="102~130" text="in Sonoma County, California" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad1" spans="132~144" text="in the 1970s" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad2" spans="249~256" text="In 1978" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad3" spans="682~689" text="In 1987" TYPE="When" META_TYPE="Topic" comment="" />
+<adverbial id="ad4" spans="527~542" text="across the U.S." TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad5" spans="667~680" text="in classrooms" TYPE="Where" META_TYPE="" comment="" />
+<adverbial id="ad6" spans="850~860" text="every year" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad7" spans="1002~1041" text="in schools, workplaces, and communities" TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad8" spans="1215~1235" text="in the United States" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad9" spans="1237~1248" text="Before 1920" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad10" spans="1311~1346" text="In the decade between 1910 and 1920" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad11" spans="1422~1446" text="across the United States" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad12" spans="1534~1541" text="in 1919" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad13" spans="1543~1596" text="after years of picketing, petitioning, and protesting" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad14" spans="1693~1711" text="on August 26, 1920" TYPE="When" META_TYPE="" comment="" />
+<adverbial id="ad15" spans="1713~1729" text="In November 1920" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<entity_definition id="ed0" spans="57~247" text="one of the outcomes of a countywide movement in Sonoma County, California, in the 1970s that brought a focus on women into school curricula as well as into the general public’s consciousness" TYPE="Predicative" comment="" />
+<entity_definition id="ed1" spans="437~462" text="International Women’s Day" TYPE="Predicative" comment="" />
+<entity_definition id="ed2" spans="639~680" text="a means of achieving equity in classrooms" TYPE="Other" comment="as ..." />
+<entity_definition id="ed3" spans="806~836" text="National Women’s History Month" TYPE="Other" comment="as ..." />
+<entity_definition id="ed4" spans="1185~1235" text="the women’s suffrage movement in the United States" TYPE="Predicative" comment="" />
+</TAGS>
+</NLP4SLE_Specification_05.dtd>

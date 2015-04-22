@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NLP4SLE_Specification_05.dtd>
+<TEXT><![CDATA[
+
+Birthdays & Anniversaries
+
+Anniversary celebrations are those that commemorate a particular date or past event. This might be an historical event, such as the first walk on the Moon; a military event, such as the beginning or ending of a war; a national event, such as the birth of a nation or the signing of a constitution; or a more personal event, such as the opening of a new business or the receipt of an award. Usually when we refer to anniversaries we are referring to a yearly event, but people may also choose to celebrate monthly or biannually. A large celebration might be held on a centennial anniversary. An anniversary celebration ranges from a small personal event such as a dinner for two people, to a large city-wide event such as a parade or fi reworks. Anniversary celebrations might be accompanied by balloons, flowers, special meals, or presents. In this reading, we discuss two common celebrations: birthdays and wedding anniversaries.
+
+Birthdays
+
+Birthdays are celebrated in a variety of ways in the United States. A birthday is considered a special day for the birthday person, so the person will often get special treatment from friends and family.
+
+Children are usually very excited about their birthdays. At a very early age, children know when their birthdays are and how old they are. Parents often host a party on their children’s birthdays. They will invite school friends, neighbors, or family members. It is expected that the people who are invited to a child’s birthday party will bring a present for the birthday child, unless they are told not to. The birthday party will undoubtedly feature a birthday cake topped with lighted candles, one candle for each year. As the cake is brought to the table, everyone sings “Happy Birthday.” When the cake is set before the birthday boy or birthday girl, he or she is supposed to make a wish (without telling anyone what it is) and blow out the candles. If all the candles go out with one breath, then the wish is supposed to come true. Ice cream is usually served with the cake. Children often open their presents after the cake and ice cream are served.
+
+Adults also celebrate their birthdays, though not as regularly as children. If someone wants to celebrate his/ her own birthday, he or she may plan a party and invite friends or family. It is more likely that an adult will have a party if the birthday is a “big” one, such as for an age that ends in 0 or 5. Another “big” one is the age of 21 when a person is considered to be an adult. Sometimes adults get gifts at a birthday party, but not always. And while it is customary to say “Happy Birthday,” it is not usually appropriate to ask an adult how old he or she is. At work, colleagues may celebrate a birthday by giving a group card, flowers, cake, or by taking the person out to lunch. Colleagues will often wish the person a happy birthday. However not all work places celebrate birthdays, and, in fact, many adults don’t want to celebrate their birthdays. Some people don’t like the reminder that they are continually getting older; others just don’t like being the center of attention.
+
+Singing “Happy Birthday to You” when cake, flowers, or presents are given is a long-standing tradition. The song was written by two American sisters in 1893, and has been translated into several languages around the world.
+
+Wedding Anniversaries
+
+Wedding anniversaries occur on the same day of the year the wedding took place. Married couples have many different ways of celebrating, but it is common for them to give each other flowers or small gifts, or enjoy a special dinner together. Sometimes couples plan a trip for themselves to celebrate this special day. On a couple’s first wedding anniversary, it is customary for them to eat the top tier of their wedding cake that they had saved and frozen just for this day.
+
+Many wedding anniversary celebrations are quiet events that include just the married couple, but sometimes, especially if the couple has been married a long time, they will plan a party that includes their children, grandchildren, and possibly siblings, nieces, and nephews. At some large wedding anniversary celebrations, such as a 50th anniversary, a granddaughter or other relative might wear the bride’s wedding dress. Sometimes the couple decides to renew their wedding vows in front of their progeny.
+
+Traditionally, specific materials are associated with particular anniversary years. Usually, the longer the period of time, the more precious or durable is the material that is associated with it. Sometimes the couple—or their families—use the list for gift suggestions.
+
+The traditional list includes: 
+
+1 year—paper anniversary 
+
+5 years—wood anniversary 
+
+10 years—tin or aluminum anniversary 
+
+20 years—china (porcelain) anniversary 
+
+25 years—silver anniversary 
+
+50 years—gold anniversary 
+
+75 years—diamond anniversary
+]]></TEXT>
+<TAGS>
+<entity_mention id="em0" spans="0~27" text="  Birthdays &amp; Anniversaries" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em1" spans="29~53" text="Anniversary celebrations" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em2" spans="444~457" text="anniversaries" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em3" spans="596~618" text="centennial anniversary" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em4" spans="623~646" text="anniversary celebration" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em5" spans="774~798" text="Anniversary celebrations" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em6" spans="961~970" text="Birthdays" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em7" spans="972~981" text="Birthdays" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em8" spans="1042~1050" text="birthday" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em9" spans="1223~1232" text="birthdays" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em10" spans="1280~1289" text="birthdays" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em11" spans="1352~1372" text="children’s birthdays" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em12" spans="1590~1604" text="birthday party" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em13" spans="1632~1645" text="birthday cake" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em14" spans="1708~1712" text="cake" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em15" spans="1780~1784" text="cake" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em16" spans="2164~2173" text="birthdays" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em17" spans="2255~2263" text="birthday" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em18" spans="2555~2569" text="birthday party" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em19" spans="2742~2750" text="birthday" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em20" spans="2922~2931" text="birthdays" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em21" spans="2989~2998" text="birthdays" TYPE="What" PRO="they" META_TYPE="Topic" comment="" />
+<entity_mention id="em22" spans="1177~1185" text="Children" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em23" spans="1255~1263" text="children" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em24" spans="1489~1511" text="child’s birthday party" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em25" spans="1541~1555" text="birthday child" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em26" spans="1754~1768" text="Happy Birthday" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em27" spans="1802~1815" text=" birthday boy" TYPE="What" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em28" spans="1819~1832" text="birthday girl" TYPE="What" PRO="she" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em29" spans="2059~2067" text="Children" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em30" spans="2053~2057" text="cake" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em31" spans="2104~2108" text="cake" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em32" spans="2202~2210" text="children" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em33" spans="2136~2142" text="Adults" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em34" spans="2348~2353" text="adult" TYPE="Who" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em35" spans="2366~2371" text="party" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em36" spans="2533~2539" text="adults" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em37" spans="2621~2635" text="Happy Birthday" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em38" spans="2678~2683" text="adult" TYPE="Who" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em39" spans="2784~2788" text="cake" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em40" spans="2868~2882" text="happy birthday" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em41" spans="2952~2958" text="adults" TYPE="Who" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em42" spans="3141~3162" text="Happy Birthday to You" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em43" spans="3169~3173" text="cake" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em44" spans="3356~3377" text="Wedding Anniversaries" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em45" spans="3379~3400" text="Wedding anniversaries" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em46" spans="3439~3446" text="wedding" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em48" spans="3792~3804" text="wedding cake" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em49" spans="3459~3474" text="Married couples" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em50" spans="3631~3638" text="couples" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em51" spans="3702~3736" text="couple’s first wedding anniversary" TYPE="Who" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em52" spans="3861~3893" text="wedding anniversary celebrations" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em55" spans="4145~4177" text="wedding anniversary celebrations" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em56" spans="4189~4205" text="50th anniversary," TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em57" spans="4293~4299" text="couple" TYPE="Who" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em58" spans="4429~4440" text="anniversary" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em59" spans="4524~4532" text="material" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em60" spans="4379~4397" text="specific materials" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em61" spans="4575~4581" text="couple" TYPE="Who" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em64" spans="4676~4695" text="paper anniversary  " TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em65" spans="4704~4722" text="wood anniversary  " TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em66" spans="4732~4759" text="tin or aluminum anniversary" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em67" spans="4771~4800" text="china (porcelain) anniversary" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em68" spans="4812~4831" text="silver anniversary " TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em69" spans="4842~4858" text="gold anniversary" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em70" spans="4870~4889" text="diamond anniversary" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad0" spans="3281~3288" text="in 1893" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad1" spans="1018~1038" text="in the United States" TYPE="Where" META_TYPE="Topic" comment="" />
+<adverbial id="ad2" spans="2705~2713" text=" At work" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<entity_definition id="ed0" spans="58~112" text="those that commemorate a particular date or past event" TYPE="Predicative" comment="" />
+<entity_definition id="ed1" spans="128~417" text="an historical event, such as the first walk on the Moon; a military event, such as the beginning or ending of a war; a national event, such as the birth of a nation or the signing of a constitution; or a more personal event, such as the opening of a new business or the receipt of an award" TYPE="Predicative" comment="" />
+<entity_definition id="ed2" spans="659~772" text="a small personal event such as a dinner for two people, to a large city-wide event such as a parade or fi reworks" TYPE="Other" comment="" />
+<entity_definition id="ed3" spans="3898~4129" text="quiet events that include just the married couple, but sometimes, especially if the couple has been married a long time, they will plan a party that includes their children, grandchildren, and possibly siblings, nieces, and nephews" TYPE="Predicative" comment="" />
+<entity_definition id="ed4" spans="4778~4787" text="porcelain" TYPE="Appositive" comment="" />
+</TAGS>
+</NLP4SLE_Specification_05.dtd>

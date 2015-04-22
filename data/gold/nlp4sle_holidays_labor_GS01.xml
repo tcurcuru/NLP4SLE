@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NLP4SLE_Specification_05.dtd>
+<TEXT><![CDATA[
+
+Labor Day
+First Monday in September
+
+Eleven-year-old Peter McGuire sold papers on the street in New York City. He shined shoes and cleaned stores, and later ran errands. It was 1863 and his father, a poor Irish immigrant, had just enlisted to fight in the Civil War. Peter had to help support his mother and six brothers and sisters. 
+
+In the nineteenth century, many immigrants from Europe and elsewhere settled in New York City, Chicago, and other major areas of the United States. They found that living conditions were not as wonderful as they had dreamed. Many immigrants lived in the poorest ghettos of the city in run-down housing. Often there were six families crowded into a house made for one family. 
+
+Working conditions were even worse. Immigrant men, women, and even very young children worked in factories, cloth and steel mills, coalmines, and in construction. They worked under dismal conditions, for twelve to fourteen hours a day, often seven days a week. They were allowed to stop only for a short time to eat, and received no vacations or benefits. They came to work even if they were sick, because if they didn’t, they could be fi red. Thousands of people were waiting to take their places. In those days, there was no concept of workers’ rights, and factory owners could treat workers as they wished. Immigrant workers were especially vulnerable. 
+
+When Peter McGuire was seventeen, he began an apprenticeship in a piano shop. This job was better than his previous jobs, for he was learning a trade, but he still worked long hours with low pay. At night he went to meetings and classes in economics and social issues of the day. One of the main issues of concern pertained to labor conditions. Workers were tired of long hours, low pay, unsafe working environments and uncertain jobs. They spoke of organizing themselves into a union of laborers to improve their working conditions. In the spring of 1872, Peter McGuire and 100,000 workers went on s trike and marched through the streets, demanding a decrease in the long working day. 
+
+This event convinced Peter that an organized labor movement was important for the future of workers’ rights. He spent the next year speaking to crowds of workers and unemployed people, and lobbying the city government for jobs and relief money. It was not an easy road for Peter McGuire. He became known as a “disturber of the public peace.” The city government ignored his demands. Peter developed a reputation among business owners as a troublemaker, and he could not find a job in his trade. He began to travel up and down the East Coast to speak to laborers about unionizing. In 1881, he moved to St. Louis, Missouri, and began to organize carpenters there. He organized a convention of carpenters in Chicago, and it was at this event that a national union of carpenters was founded. He became General Secretary of the United Brotherhood of Carpenters and Joiners of America. 
+
+The idea of organizing workers according to their trades spread around the country. Factory workers, dockworkers, and toolmakers all began to demand and get their rights to an eight-hour workday, a secure job, and a future in their trades. Peter McGuire and laborers in other cities decided to plan a holiday for workers, both as a tribute to their contributions to the nation, and as a means of bringing more public awareness to their struggles. They chose the first Monday in September, a date midway between Independence Day and Thanksgiving. 
+
+On September 5, 1882 the first Labor Day parade was held in New York City. Twenty thousand workers marched in the parade up Broadway. They carried banners that read “LABOR CREATES ALL WEALTH,” and “EIGHT HOURS FOR WORK; EIGHT HOURS FOR REST; EIGHT HOURS FOR RECREATION!” After the parade, there were picnics all around the city. Workers and celebrants ate Irish stew, homemade bread, and apple pie. At night, fireworks were set off. Within the next few years, the idea of a day to honor workers spread from coast to coast, and all states celebrated Labor Day. In 1894, Congress voted it a national holiday. 
+
+Today we celebrate Labor Day with less fanfare on the first Monday of September. Some cities have parades and community picnics. Many politicians “kick off” their political campaigns by holding rallies on the holiday. Most Americans consider Labor Day the end of the summer, and the beaches and other popular resort areas are packed with people enjoying one last three-day weekend. For many students, the new school year begins right after Labor Day.
+]]></TEXT>
+<TAGS>
+<entity_mention id="em0" spans="2~11" text="Labor Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em1" spans="12~37" text="First Monday in September" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em2" spans="39~69" text="Eleven-year-old Peter McGuire " TYPE="What" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em3" spans="269~274" text="Peter" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em4" spans="370~380" text="immigrants" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em5" spans="568~578" text="immigrants" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em6" spans="751~801" text="Immigrant men, women, and even very young children" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em8" spans="715~734" text="Working conditions " TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em10" spans="1301~1308" text="workers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em11" spans="1324~1343" text=" Immigrant workers " TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em12" spans="1378~1391" text="Peter McGuire" TYPE="Who" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em13" spans="1700~1716" text="labor conditions" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em14" spans="1718~1725" text="Workers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em15" spans="1852~1869" text="union of laborers" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em16" spans="1930~1943" text="Peter McGuire" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em17" spans="1956~1963" text="workers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em18" spans="2082~2087" text="Peter" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em19" spans="2096~2121" text="organized labor movement " TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em20" spans="1253~1268" text="workers’ rights" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em21" spans="2153~2168" text="workers’ rights" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em22" spans="2205~2222" text="crowds of workers" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em23" spans="2334~2347" text="Peter McGuire" TYPE="What" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em25" spans="2444~2449" text="Peter" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em26" spans="2614~2622" text="laborers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em27" spans="2629~2639" text="unionizing" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em28" spans="2738~2762" text="convention of carpenters" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em29" spans="2705~2715" text="carpenters" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em30" spans="2807~2835" text="national union of carpenters" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em32" spans="2966~2973" text="workers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em33" spans="3026~3042" text=" Factory workers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em34" spans="3044~3055" text="dockworkers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em35" spans="3061~3071" text="toolmakers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em36" spans="3106~3112" text="rights" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em37" spans="3183~3196" text="Peter McGuire" TYPE="Who" PRO="he" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em38" spans="3201~3209" text="laborers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em39" spans="3244~3263" text="holiday for workers" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em40" spans="3405~3430" text="first Monday in September" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em42" spans="3516~3538" text="first Labor Day parade" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em43" spans="3582~3589" text="workers" TYPE="Who" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em44" spans="3605~3611" text="parade" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em45" spans="3772~3778" text="parade" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em46" spans="3965~3985" text="day to honor workers" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em47" spans="4040~4049" text="Labor Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em48" spans="4119~4128" text="Labor Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em49" spans="4153~4179" text=" first Monday of September" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em50" spans="4198~4205" text="parades" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em51" spans="4341~4352" text=" Labor Day " TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em52" spans="4540~4549" text="Labor Day" TYPE="What" PRO="it" META_TYPE="Topic" comment="" />
+<entity_mention id="em53" spans="1456~1459" text="job" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em54" spans="1803~1807" text="jobs" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em55" spans="2283~2287" text="jobs" TYPE="What" PRO="they" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em56" spans="2538~2541" text="job" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<entity_mention id="em57" spans="3148~3151" text="job" TYPE="What" PRO="it" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad0" spans="338~363" text="In the nineteenth century" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad1" spans="1373~1405" text="When Peter McGuire was seventeen" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad2" spans="1907~1928" text="In the spring of 1872" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad3" spans="2575~2601" text="up and down the East Coast" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad4" spans="2641~2648" text="In 1881" TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad5" spans="2659~2681" text="to St. Louis, Missouri" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad6" spans="2763~2773" text="in Chicago" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad7" spans="3548~3564" text="in New York City" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad8" spans="3491~3512" text="On September 5, 1882 " TYPE="When" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad9" spans="3612~3623" text="up Broadway" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad10" spans="4050~4058" text=" In 1894" TYPE="When" META_TYPE="Topic" comment="" />
+<entity_definition id="ed0" spans="2859~2939" text="General Secretary of the United Brotherhood of Carpenters and Joiners of America" TYPE="Predicative" comment="" />
+</TAGS>
+</NLP4SLE_Specification_05.dtd>
