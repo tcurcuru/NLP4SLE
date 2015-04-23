@@ -69,6 +69,8 @@ class Classification():
                             (gold_dir,mode='train')
         print '\nsklearn classification report:'
         print classification_report(correct,predicted)
+        print '\nsklearn confusion matrix:'
+        print confusion_matrix(correct,predicted)
         m = Metrics_BIO(predicted,correct) 
         return m.precision(),m.recall(),m.f_measure()
 
