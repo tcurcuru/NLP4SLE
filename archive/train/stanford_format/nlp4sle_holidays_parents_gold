@@ -1,7 +1,7 @@
 Mother	1	1	2	8	NNP	B-Ent_What_Topic	
 's	1	2	8	10	POS	I-Ent_What_Topic	
 Day	1	3	11	14	NNP	I-Ent_What_Topic	
-&amp;	1	4	15	16	CC	I-Ent_What_Topic	
+&	1	4	15	16	CC	I-Ent_What_Topic	
 Father	1	5	17	23	NNP	I-Ent_What_Topic	
 's	1	6	23	25	POS	I-Ent_What_Topic	
 Day	1	7	26	29	NN	I-Ent_What_Topic	
@@ -187,8 +187,8 @@ living	7	14	946	952	VBG	I-Adv_When_Sub-Topic
 patterns	7	15	953	961	NNS	I-Adv_When_Sub-Topic	
 ,	7	16	961	962	,	O	
 mothers	7	17	963	970	NNS	O	
-in	7	18	971	973	IN	B-Adv__Sub-Topic	
-England	7	19	974	981	NNP	I-Adv__Sub-Topic	
+in	7	18	971	973	IN	B-Adv_Where_Sub-Topic	
+England	7	19	974	981	NNP	I-Adv_Where_Sub-Topic	
 are	7	20	982	985	VBP	O	
 still	7	21	986	991	RB	O	
 honored	7	22	992	999	VBN	O	

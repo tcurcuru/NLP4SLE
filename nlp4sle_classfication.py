@@ -88,8 +88,8 @@ class Classification():
                most_common()    
 
 if __name__ == "__main__":    
-    data_dir = 'gold_pruned'
-    model = 'nlp4sle_20150422.crfsuite'
+    data_dir = 'train'
+    model = 'nlp4sle.crfsuite'
     c = Classification()
     c.train(data_dir,model)    
     #c.model = model

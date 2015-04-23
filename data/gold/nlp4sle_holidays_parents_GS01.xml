@@ -138,7 +138,7 @@ When children can’t visit their fathers, they usually contact them by telephon
 <adverbial id="ad49" spans="5635~5658" text="when they needed “Dad.”" TYPE="When" META_TYPE="" comment="" />
 <adverbial id="ad50" spans="5629~5634" text="there" TYPE="Where" META_TYPE="" comment="" />
 <adverbial id="ad51" spans="5197~5236" text="When children can’t visit their fathers" TYPE="When" META_TYPE="" comment="" />
-<adverbial id="ad52" spans="971~981" text="in England" TYPE="" META_TYPE="Sub-Topic" comment="" />
+<adverbial id="ad52" spans="971~981" text="in England" TYPE="Where" META_TYPE="Sub-Topic" comment="" />
 <entity_definition id="ed0" spans="66~149" text="a description of the two most celebrated family days: Mother’s Day and Father’s Day" TYPE="Other" comment="" />
 <entity_definition id="ed1" spans="441~608" text="the day when children, young and old, try to show, in a tangible way, how much they appreciate their mothers, or those who have served as mother figures in their lives" TYPE="Predicative" comment="" />
 <entity_definition id="ed2" spans="120~149" text="Mother’s Day and Father’s Day" TYPE="Appositive" comment="" />

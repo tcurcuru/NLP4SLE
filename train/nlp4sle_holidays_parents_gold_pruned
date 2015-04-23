@@ -193,8 +193,8 @@ living	VBG	I-Adv_When_Sub-Topic
 patterns	NNS	I-Adv_When_Sub-Topic	
 ,	,	O	
 mothers	NNS	O	
-in	IN	B-Adv__Sub-Topic	
-England	NNP	I-Adv__Sub-Topic	
+in	IN	B-Adv_Where_Sub-Topic	
+England	NNP	I-Adv_Where_Sub-Topic	
 are	VBP	O	
 still	RB	O	
 honored	VBN	O	
