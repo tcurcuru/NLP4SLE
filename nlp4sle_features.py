@@ -122,7 +122,7 @@ def w2f(sents,i,j,filename,freq):
         'w.intitle=%s' % contained_in_title(w, filename), # w matches title
         'w.lowtitle=%s' % lower_in_title(w, filename), # w lower matches title
         'w.freq=%s' % frequency(w, freq), # freq of w        
-        #'w.stopword=%s' % stop_word(w), # # stop word
+        'w.stopword=%s' % stop_word(w), # # stop word
         ]
         
     # previous word features
@@ -136,7 +136,7 @@ def w2f(sents,i,j,filename,freq):
             'pw.intitle=%s' % contained_in_title(pw, filename), # w matches title
             'pw.lowtitle=%s' % lower_in_title(pw,filename), # w lower matches title
             'pw.freq=%s' % frequency(pw, freq), # freq of w
-            #'pw.stopword=%s' % stop_word(w), # # stop word
+            'pw.stopword=%s' % stop_word(w), # # stop word
             ])
     else:        
         f.append('BOS') #first word of a sentence
@@ -152,7 +152,7 @@ def w2f(sents,i,j,filename,freq):
             'nw.intitle=%s' % contained_in_title(nw, filename), # w matches title
             'nw.lowtitle=%s' % lower_in_title(nw,filename), # w lower matches title
             'nw.freq=%s' % frequency(nw, freq), # freq of w
-            #'nw.stopword=%s' % stop_word(w), # # stop word
+            'nw.stopword=%s' % stop_word(w), # # stop word
             ])
     else:        
         f.append('EOS') # last word of a sentence
