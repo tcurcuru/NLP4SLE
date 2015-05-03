@@ -22,20 +22,17 @@ bias w=Anniversaries w.istitle=True pos=NNPS pw=& pw.istitle=False ppos=CC nw=An
 
 >>>
 """
-<<<<<<< HEAD
-from __future__ import print_function
-=======
 
+from __future__ import print_function
 from bs4 import BeautifulSoup as bs
->>>>>>> 625f84c8a947b38bb3831b47076122e905bdbdf3
 from nlp4sle_utilities import *
 import time
 import os
-import sys
+#import sys
 import codecs
 
-reload(sys)
-sys.setdefaultencoding('utf8')
+#reload(sys)
+#sys.setdefaultencoding('utf8')
 
 HOME = os.getcwd()
 DATA = os.path.join(HOME, "data")
@@ -48,7 +45,8 @@ def get_frequencies(filename):
     _,long_name = filename.split("\\")
     name,_ = long_name.split("_gold_")
     f = os.path.join(PARSED, name + ".fix.xml")
-    soup = bs(open(f, 'r'))
+    #soup = bs(open(f, 'r'))
+    soup = bs(codecs.open(f, 'r', encoding='utf-8'))
     for sent in soup.findAll('sentence'):
         for token in sent.findAll('token'):
             try:
@@ -67,7 +65,8 @@ def get_title(filename):
     _,long_name = filename.split("\\")
     name,_ = long_name.split("_gold_")
     f = os.path.join(FIXED, name + ".fix")
-    with open(f, 'r') as in_f:
+    #with open(f, 'r') as in_f:
+    with codecs.open(f, 'r', encoding='utf-8') as in_f:
         lines = in_f.readlines()
         i = 0
         line = lines[i]
