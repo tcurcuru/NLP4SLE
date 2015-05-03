@@ -22,7 +22,7 @@ tag = pos
 >>>
 """
 
-from __future__ import with_statement
+from __future__ import with_statement,print_function
 import os
 from cPickle import dump, load, HIGHEST_PROTOCOL
 from nltk.corpus import conll2002 as reader
