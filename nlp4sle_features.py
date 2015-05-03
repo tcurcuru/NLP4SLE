@@ -22,14 +22,89 @@ bias w=Anniversaries w.istitle=True pos=NNPS pw=& pw.istitle=False ppos=CC nw=An
 
 >>>
 """
+<<<<<<< HEAD
 from __future__ import print_function
+=======
+
+from bs4 import BeautifulSoup as bs
+>>>>>>> 625f84c8a947b38bb3831b47076122e905bdbdf3
 from nlp4sle_utilities import *
 import time
+import os
+import sys
+import codecs
 
+reload(sys)
+sys.setdefaultencoding('utf8')
+
+HOME = os.getcwd()
+DATA = os.path.join(HOME, "data")
+FIXED = os.path.join(DATA, "fixed")
+PARSED = os.path.join(DATA, "parsed")
+
+def get_frequencies(filename):
+    """Calculates frequencies for all words in a document"""
+    freq_dict = {}
+    _,long_name = filename.split("\\")
+    name,_ = long_name.split("_gold_")
+    f = os.path.join(PARSED, name + ".fix.xml")
+    soup = bs(open(f, 'r'))
+    for sent in soup.findAll('sentence'):
+        for token in sent.findAll('token'):
+            try:
+                w = token.word.string
+                if w in freq_dict:
+                    freq_dict[w] += 1
+                else:
+                    freq_dict[w] = 1
+            except AttributeError:
+                pass
+    return freq_dict
+    
 # Feature functions
-
+def get_title(filename):
+    """Gets the title aka first line from a file"""
+    _,long_name = filename.split("\\")
+    name,_ = long_name.split("_gold_")
+    f = os.path.join(FIXED, name + ".fix")
+    with open(f, 'r') as in_f:
+        lines = in_f.readlines()
+        i = 0
+        line = lines[i]
+        while len(line) < 5:
+            i += 1
+            line = lines[i]
+        return lines[i]
+        
+def contained_in_title(word, filename):
+    """Checks if a word is contained in the title of a document"""
+    title = get_title(filename)
+    if word in title:
+        return True
+    else:
+        return False
+        
+def lower_in_title(word, filename):
+    """Checks if a word is contained in the title of a document, but both lower-
+    cased"""
+    title = get_title(filename)
+    if word.lower() in title.lower():
+        return True
+    else:
+        return False
+        
+def frequency(word, freq):
+    """Checks if the word is a high frequency word in the document"""
+    if word in freq:
+        if freq[word] > 2:
+            return 'high'
+        else:
+            return 'low'
+    else:
+        return 'none'
+            
 # Extract features from data
-def w2f(sents,i,j):
+def w2f(sents,i,j,filename,freq):
     """ -> list of features for a word """
     w = sents[i][j][0] #current word
     pos = sents[i][j][1] #POS of current word
@@ -38,7 +113,12 @@ def w2f(sents,i,j):
         'w=' + w, #current word        
         'w.istitle=%s' % w.istitle(), #first letter - capitalized
         'pos=' + pos, # POS tag
+        'w.intitle=%s' % contained_in_title(w, filename), # w matches title
+        'w.lowtitle=%s' % lower_in_title(w, filename), # w lower matches title
+        'w.freq=%s' % frequency(w, freq), # freq of w
         ]
+        
+    # previous word features
     if j>0:
         pw = sents[i][j-1][0] #previous word
         ppos = sents[i][j-1][1] #POS of previous word
@@ -46,10 +126,14 @@ def w2f(sents,i,j):
             'pw=' + pw, # previous word            
             'pw.istitle=%s' % pw.istitle(), #first letter - capitalized
             'ppos=' + ppos, # POS tag
+            'pw.intitle=%s' % contained_in_title(pw, filename), # w matches title
+            'pw.lowtitle=%s' % lower_in_title(pw,filename), # w lower matches title
+            'pw.freq=%s' % frequency(pw, freq), # freq of w
             ])
     else:        
         f.append('BOS') #first word of a sentence
 
+    # next word features
     if j<len(sents[i])-1:
         nw = sents[i][j+1][0] #next word
         npos = sents[i][j+1][1] #POS of next word
@@ -57,6 +141,9 @@ def w2f(sents,i,j):
             'nw=' + nw, # previous word
             'nw.istitle=%s' % nw.istitle(), #first letter - capitalized
             'npos=' + npos, #POS tag
+            'nw.intitle=%s' % contained_in_title(nw, filename), # w matches title
+            'nw.lowtitle=%s' % lower_in_title(nw,filename), # w lower matches title
+            'nw.freq=%s' % frequency(nw, freq), # freq of w
             ])
     else:        
         f.append('EOS') # last word of a sentence
@@ -66,26 +153,26 @@ def w2f(sents,i,j):
     #if j>0 and j<len(sents[i])-1: ...
     return f
 
-def s2f(sents,i):
+def s2f(sents,i,f,freq):
     """ Extract features from a sentence """
-    return [w2f(sents,i,j) for j in range(len(sents[i]))]
+    return [w2f(sents,i,j,f,freq) for j in range(len(sents[i]))]
 
 
-def s2l(sents,i):
+def s2l(sents,i,f,freq):
     """ Extract labels from a sentence for gold data """
     return [str(l) for _,_,l in sents[i]]
 
-def s2w(sents,i):
+def s2w(sents,i,f,freq):
     """ Extract words from a sentence """
     return [w for w,_,_ in sents[i]]
 
-def d2f(sents):
+def d2f(sents,f,freq):
     """ Extract features from a document """
-    return [s2f(sents,i) for i in range(len(sents))]
+    return [s2f(sents,i,f,freq) for i in range(len(sents))]
 
-def d2l(sents):
+def d2l(sents,f,freq):
     """ Extract labels from a document """
-    return [s2l(sents,i) for i in range(len(sents))]
+    return [s2l(sents,i,f,freq) for i in range(len(sents))]
 
 def extract_features(data_dir,mode='train'):
     """
@@ -97,15 +184,16 @@ def extract_features(data_dir,mode='train'):
     features = list()
     labels = list()
     for f in files:
+        freq = get_frequencies(f)
         if mode=='train':
             sents = corpus_reader(f)
-            labels.extend(d2l(sents))
+            labels.extend(d2l(sents,f,freq))
         elif mode=='decode':
             sents = corpus_reader(f,tag='pos')
         else:
             print('Invalid mode!')
             break
-        features.extend(d2f(sents))       
+        features.extend(d2f(sents,f,freq))       
     dt = time.time() - t0
     print('Total feature extraction time: %d seconds' % dt)
     return features,labels   
