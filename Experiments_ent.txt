@@ -1,0 +1,75 @@
++bias	null
++w	null
++w.istitle	8.06%
++pos	6.64%
++pw	10.86%
++pw.istitle	5.10%
++ppos	null
++nw	8.41%
++nw.istitle 11.71%
++npos	1.51%
+-pos-ppos-npos	5.34%
+-pw.istitle	6.76%
++pos	16.99%
++pw.istitle	15.32%
+-pw.istitle 16.99%
+
+
++w.intitle	23.95%
++pw.istitle	24.03%
+
++w.lowtitle	27.39%
+-pw.istitle	27.69%
+
++w.freq	28.46%
++pw.istitle	28.18%
+
++pw.intitle	28.20%
+-pw.istitle	27.88%
+
++pw.lowtitle	26.02% 
++pw.istitle	29.04%	
+
++pw.freq	26.99%
+-pw.istitle	28.15%
+-pw.freq+pw.istitle 29.04%
+-pos	25.01%
++pos	29.04%
+
++nw.intitle	31.10%
++nw.lowtitle	29.39%
++nw.freq	30.02%
+
+
++w.stopword	30.58%
+-nw.lowtitle 30.58%
+
+
++pw.stopword 31.26%
++nw.lowtitle	31.26%
+-nw.freq	29.44%
+-nw.lowtitle 31.15%
+
++nw.stopword 31.15%
++nw.freq	30.99%
++pw.freq	30.47%	
+________
+Best so far: 31.26%
++bias
++w
++w.istitle
++pos
++w.intitle
++w.lowtitle
++w.freq
++w.stopword
++pw
++pw.istitle
++pw.intitle
++pw.lowtitle
++pw.stopword
++nw
++nw.istitle
++nw.intitle
++nw.lowtitle
++nw.freq		 
