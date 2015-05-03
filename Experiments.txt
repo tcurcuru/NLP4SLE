@@ -1,0 +1,26 @@
+Baseline
++bias	null
++w	null
++w.istitle	3.01%
++pos	4.32%
++pw
++pw.istitle
++ppos	5.24%
++nw
++nw.istitle
++npos	6.16%
++w.intitle	15.18%
++w.lowtitle	16.73%
++w.freq	18.27%
++pw.intitle
++pw.lowtitle
++pw.freq	18.51%
++nw.intitle
++nw.lowtitle
++nw.freq	18.90%
+__________________
+
++w.stopword	19.34%
++pw.stopword 19.10%
++nw.stopword 19.32%
+		 
