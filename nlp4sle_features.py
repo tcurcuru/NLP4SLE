@@ -103,11 +103,11 @@ def extract_features(data_dir,mode='train'):
         elif mode=='decode':
             sents = corpus_reader(f,tag='pos')
         else:
-            print 'Invalid mode!'
+            print('Invalid mode!')
             break
         features.extend(d2f(sents))       
     dt = time.time() - t0
-    print 'Total feature extraction time: %d seconds' % dt
+    print('Total feature extraction time: %d seconds' % dt)
     return features,labels   
     
 if __name__ == "__main__":
