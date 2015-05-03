@@ -16,7 +16,7 @@ Demo:
 60.0
 """
 
-from __future__ import division
+from __future__ import division,print_function
 
 class Metrics_BIO():
     """
@@ -32,11 +32,11 @@ class Metrics_BIO():
         else:
             self.c = []
             self.p = []
-            print 'Your input is invalid:'
-            print 'len(correct)!=len(predicted)'
-            print 'Please assign your input values later:'
-            print '[self].c = correct'
-            print '[self].p = predicted'
+            print('Your input is invalid:')
+            print('len(correct)!=len(predicted)')
+            print('Please assign your input values later:')
+            print('[self].c = correct')
+            print('[self].p = predicted')
             
     def bio_tags(self,tag_list):
         """ -> set of indexes of bio tags """
