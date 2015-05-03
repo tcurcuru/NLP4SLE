@@ -8,6 +8,7 @@ Reference:
 http://nbviewer.ipython.org/github/tpeng/python-crfsuite/blob/master/examples/CoNLL%202002.ipynb
 """
 
+from __future__ import print_function
 import pycrfsuite
 import time
 from collections import Counter
@@ -33,7 +34,7 @@ class Classification():
         t0 = time.time()
         trainer.train(self.model)
         dt = time.time() - t0
-        print 'Total training time: %d seconds' % dt
+        print('Total training time: %d seconds' % dt)
 
     def tagger(self):
         """ CRF Tagger """
@@ -55,7 +56,7 @@ class Classification():
         for sf in features:
             predicted.extend(self.decode_sent(sf,t))
         dt = time.time() - t0
-        print 'Total decoding time: %d seconds' % dt
+        print('Total decoding time: %d seconds' % dt)
         
         correct = list()
         if mode=='train':            
@@ -67,17 +68,17 @@ class Classification():
         """ Return evaluation metrics for test data """
         predicted,correct = self.decode\
                             (gold_dir,mode='train')
-        print '\nsklearn classification report:'
-        print classification_report(correct,predicted)
-        print '\nsklearn confusion matrix:'
-        print confusion_matrix(correct,predicted)
+        print('\nsklearn classification report:')
+        print(classification_report(correct,predicted))
+        print('\nsklearn confusion matrix:')
+        print(confusion_matrix(correct,predicted))
         m = Metrics_BIO(predicted,correct) 
         return m.precision(),m.recall(),m.f_measure()
 
     def print_f(self,features):
         """ Print features in model """
         for (a1,a2),w in features:
-            print '{0:10.5f}\t{1:20s}{2:s}'.format(w,a1,a2)
+            print('{0:10.5f}\t{1:20s}{2:s}'.format(w,a1,a2))
 
     def s_f(self):
         """ Return sorted list of state features in model """
@@ -96,16 +97,16 @@ if __name__ == "__main__":
     c.train(data_dir,model)    
     #c.model = model
     e1,e2,e3 = c.evaluate(data_dir)
-    print 'Overall results: '
-    print '{0:15s}{1:15s}{2:15s}'.format('Precision',\
-            'Recall','F-measure')
-    print '{0:7.2f}        {1:7.2f}        {2:7.2f}'.\
-          format(e1,e2,e3)
-    print '\nTop likely transitions:'
+    print('Overall results: ')
+    print('{0:15s}{1:15s}{2:15s}'.format('Precision',\
+            'Recall','F-measure'))
+    print('{0:7.2f}        {1:7.2f}        {2:7.2f}'.\
+          format(e1,e2,e3))
+    print('\nTop likely transitions:')
     c.print_f(c.t_f()[:10])
-    print 'Top unlikely transitions:'
+    print('Top unlikely transitions:')
     c.print_f(c.t_f()[-10:])
-    print '\nTop positive:'
+    print('\nTop positive:')
     c.print_f(c.s_f()[:10])
-    print 'Top negative:'
+    print('Top negative:')
     c.print_f(c.s_f()[-10:])
