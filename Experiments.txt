@@ -23,4 +23,25 @@ __________________
 +w.stopword	19.34%
 +pw.stopword 19.10%
 +nw.stopword 19.32%
+___________________
+
+Best so far: 21.30%
++bias
++w
++w.istitle
++pos
++w.intitle
++w.lowtitle
++w.freq
++w.stopword
++pw
++pw.istitle
++pw.intitle
++pw.lowtitle
++pw.stopword
++nw
++nw.istitle
++nw.intitle
++nw.lowtitle
++nw.freq
 		 
