@@ -22,7 +22,7 @@ bias w=Anniversaries w.istitle=True pos=NNPS pw=& pw.istitle=False ppos=CC nw=An
 
 >>>
 """
-
+from __future__ import print_function
 from nlp4sle_utilities import *
 import time
 
@@ -120,8 +120,8 @@ if __name__ == "__main__":
         for wf,wl in zip (sf,sl):
             lines.append(' '.join(wf)+' '+wl+'\n')            
     write_lines(lines,'train_features.txt')
-    print '\nSample features:\n'
+    print('\nSample features:\n')
     for line in lines[:3]:
-        print line
+        print(line)
     
     
