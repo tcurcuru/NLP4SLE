@@ -30,6 +30,7 @@ import time
 import os
 #import sys
 import codecs
+from nltk.corpus import stopwords
 
 #reload(sys)
 #sys.setdefaultencoding('utf8')
@@ -58,6 +59,12 @@ def get_frequencies(filename):
             except AttributeError:
                 pass
     return freq_dict
+
+# Stop Word List from NLTK
+swl = stopwords.words()
+def stop_word(w):               # local feature
+    """ -> True if w is a stop word """
+    return (w in swl)
     
 # Feature functions
 def get_title(filename):
@@ -114,7 +121,8 @@ def w2f(sents,i,j,filename,freq):
         'pos=' + pos, # POS tag
         'w.intitle=%s' % contained_in_title(w, filename), # w matches title
         'w.lowtitle=%s' % lower_in_title(w, filename), # w lower matches title
-        'w.freq=%s' % frequency(w, freq), # freq of w
+        'w.freq=%s' % frequency(w, freq), # freq of w        
+        #'w.stopword=%s' % stop_word(w), # # stop word
         ]
         
     # previous word features
@@ -128,6 +136,7 @@ def w2f(sents,i,j,filename,freq):
             'pw.intitle=%s' % contained_in_title(pw, filename), # w matches title
             'pw.lowtitle=%s' % lower_in_title(pw,filename), # w lower matches title
             'pw.freq=%s' % frequency(pw, freq), # freq of w
+            #'pw.stopword=%s' % stop_word(w), # # stop word
             ])
     else:        
         f.append('BOS') #first word of a sentence
@@ -143,13 +152,14 @@ def w2f(sents,i,j,filename,freq):
             'nw.intitle=%s' % contained_in_title(nw, filename), # w matches title
             'nw.lowtitle=%s' % lower_in_title(nw,filename), # w lower matches title
             'nw.freq=%s' % frequency(nw, freq), # freq of w
+            #'nw.stopword=%s' % stop_word(w), # # stop word
             ])
     else:        
         f.append('EOS') # last word of a sentence
 
     #if j>1: ...
     #if j<len(sents[i])-2: ...
-    #if j>0 and j<len(sents[i])-1: ...
+    #if j>0 and j<len(sents[i])-1: ...'''
     return f
 
 def s2f(sents,i,f,freq):

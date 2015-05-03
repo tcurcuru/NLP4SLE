@@ -91,12 +91,13 @@ class Classification():
                most_common()    
 
 if __name__ == "__main__":    
-    data_dir = 'train'
+    data_dir_train = 'train'
+    data_dir_test = 'test'
     model = 'nlp4sle.crfsuite'
     c = Classification()
-    c.train(data_dir,model)    
+    c.train(data_dir_train,model)    
     #c.model = model
-    e1,e2,e3 = c.evaluate(data_dir)
+    e1,e2,e3 = c.evaluate(data_dir_test)
     print('Overall results: ')
     print('{0:15s}{1:15s}{2:15s}'.format('Precision',\
             'Recall','F-measure'))
