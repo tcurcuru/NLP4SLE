@@ -72,7 +72,7 @@ class Classification():
         print(classification_report(correct,predicted))
         print('\nsklearn confusion matrix:')
         print(confusion_matrix(correct,predicted))
-        m = Metrics_BIO(predicted,correct) 
+        m = Metrics_BIO(correct,predicted) 
         return m.precision(),m.recall(),m.f_measure()
 
     def print_f(self,features):
