@@ -1,0 +1,260 @@
+# -*- coding: utf-8 -*-
+
+"""
+cosi140b - NLP4SLE - Machine Learning
+Feature Extraction Module
+
+Reference:
+- http://nbviewer.ipython.org/github/tpeng/python-crfsuite/blob/master/examples/CoNLL%202002.ipynb
+
+Demo:
+>>> ================================ RESTART ================================
+>>> 
+Total feature extraction time: 0 seconds
+
+Sample features:
+
+bias w=Birthdays w.istitle=True pos=NNPS BOS nw=& nw.istitle=False npos=CC I-Ent_What_Topic
+
+bias w=& w.istitle=False pos=CC pw=Birthdays pw.istitle=True ppos=NNPS nw=Anniversaries nw.istitle=True npos=NNPS I-Ent_What_Topic
+
+bias w=Anniversaries w.istitle=True pos=NNPS pw=& pw.istitle=False ppos=CC nw=Anniversary nw.istitle=True npos=NN I-Ent_What_Topic
+
+>>>
+"""
+
+from __future__ import print_function
+from bs4 import BeautifulSoup as bs
+from nlp4sle_utilities import *
+import time
+import os
+#import sys
+import codecs
+from nltk.corpus import stopwords
+
+#reload(sys)
+#sys.setdefaultencoding('utf8')
+
+HOME = os.getcwd()
+DATA = os.path.join(HOME, "data")
+FIXED = os.path.join(DATA, "fixed")
+PARSED = os.path.join(DATA, "parsed")
+
+def get_frequencies(filename):
+    """Calculates frequencies for all words in a document"""
+    freq_dict = {}
+    _,long_name = filename.split("\\")
+    name,_ = long_name.split("_gold_")
+    f = os.path.join(PARSED, name + ".fix.xml")
+    #soup = bs(open(f, 'r'))
+    soup = bs(codecs.open(f, 'r', encoding='utf-8'))
+    for sent in soup.findAll('sentence'):
+        for token in sent.findAll('token'):
+            try:
+                w = token.word.string
+                if w in freq_dict:
+                    freq_dict[w] += 1
+                else:
+                    freq_dict[w] = 1
+            except AttributeError:
+                pass
+    return freq_dict
+
+# Stop Word List from NLTK
+swl = stopwords.words()
+def stop_word(w):               # local feature
+    """ -> True if w is a stop word """
+    return (w in swl)
+    
+# Feature functions
+def get_title(filename):
+    """Gets the title aka first line from a file"""
+    _,long_name = filename.split("\\")
+    name,_ = long_name.split("_gold_")
+    f = os.path.join(FIXED, name + ".fix")
+    #with open(f, 'r') as in_f:
+    with codecs.open(f, 'r', encoding='utf-8') as in_f:
+        lines = in_f.readlines()
+        i = 0
+        line = lines[i]
+        while len(line) < 5:
+            i += 1
+            line = lines[i]
+        return lines[i]
+        
+def contained_in_title(word, filename):
+    """Checks if a word is contained in the title of a document"""
+    title = get_title(filename)
+    if word in title:
+        return True
+    else:
+        return False
+        
+def lower_in_title(word, filename):
+    """Checks if a word is contained in the title of a document, but both lower-
+    cased"""
+    title = get_title(filename)
+    if word.lower() in title.lower():
+        return True
+    else:
+        return False
+        
+def frequency(word, freq):
+    """Checks if the word is a high frequency word in the document"""
+    if word in freq:
+        if freq[word] > 2:
+            return 'high'
+        else:
+            return 'low'
+    else:
+        return 'none'
+
+def loc_ad(word):
+    loc_list = ["New York", "Los Angeles", "Chicago", "Houston", "Philadelphia", "Pheonix", "San Antonio", "San Diego", "San Jose", "Austin", "Indianapolis", "Jacksonville", "San Francisco", "Columbus", "Charlotte", "Fort Worth", "Detroit", "El Paso", "Memphis", "Seattle", "Denver", "Washington", "Boston", "Nashville", "Baltimore", "Oklahoma City", "Louisville", "Portland", "Las Vegas", 'Milwaukee', 'Albuquerque', 'Tuscon', 'Fresno', 'Sacramento', 'Long Beach', 'Kansas City', 'Mesa', 'Virginia Beach', 'Atlanta', 'Colorado Springs','Omaha', 'Raleigh','Miami', 'Oakland', 'Minneapolis', 'Tulsa', 'Cleveland', 'Wichita', 'Arlington', 'New Orleans', 'Bakersfield', 'Tampa', 'Honolulu', 'Aurora', 'Anaheim', 'Santa Ana', 'St. Louis', 'Riverside','Corpus Christi',  'Lexington',  'Pittsburgh',  'Anchorage', ' Stockton','Cincinnati',  'Saint Paul',  'Toledo',  'Greensboro',  'Newark',  'Plano',  'Henderson',  'Lincoln',  'Buffalo', 'Jersey City', 'Chula Vista', 'Fort Wayne', 'Orlando', 'St. Petersburg', 'Chandler', 'Laredo', 'Norfolk', 'Durham', 'Madison', 'Lubbock', 'Irvine', 'Winston-Salem', 'Glendale', 'Garland', 'Hialeah', 'Reno', 'Chesapeake', 'Gilbert', 'Baton Rouge', 'Irving',  'Scottsdale',  'North Las Vegas',  'Fremont',  'Boise',  'Richmond',  'San Bernardino', 'Birmingham', 'Spokane', 'Rochester', 'Des Moines', 'Modesto', 'Fayetteville', 'Tacoma', 'Oxnard', 'Fontana', 'Montgomery', 'Moreno Valley', 'Shreveport', 'Aurora', 'Yonkers', 'Akron', 'Huntington Beach', 'Little Rock', 'Augusta', 'Amarillo', 'Glendale', 'Mobile',  'Grand Rapids',  'Salt Lake City',  'Tallahassee',  'Huntsville',  'Grand Prairie', 'Knoxville', 'Worchester', 'Newport News', 'Brownsville', 'Overland Park', 'Santa Clarita', 'Providence', 'Garden Grove', 'Chattanooga', 'Oceanside', 'Jackson', 'Fort Lauderdale', 'Santa Rosa', 'Rancho Cucamonga', 'Port St. Lucie', 'Tempe', 'Ontario', 'Vancouver',  'Cape Coral',  'Sioux Falls',  'Springfield',  'Peoria',  'Pembroke Pines',  'Elk Grove',  'Salem', 'Lancaster', 'Corona',  'Eugene',  'Palmdale',  'Salinas',  'Springfield',  'Pasadena',  'Fort Collins',  'Hayward',  'Pomona', 'Rockford', 'Alexandria',  'Escondido',  'McKinney',  'Kansas City',  'Joliet',  'Sunnyvale',  'Torrance', 'Bridgeport', 'Lakewood',  'Hollywood',  'Paterson',  'Naperville',  'Syracuse',  'Mesquite',  'Dayton',  'Savannah', 'Clarksville', 'Orange',  'Pasadena',  'Fullerton',  'Killeen',  'Frisco',  'Hampton',  'McAllen',  'Warren',  'Bellevue', 'West Valley City', 'Columbia',  'Olathe',  'Sterling Heights',  'New Haven',  'Miramar',  'Waco',  'Thousand Oaks',  'Cedar Rapids', 'Charleston',  'Visalia',  'Topeka',  'Elizabeth',  'Gainesville',  'Thornton',  'Roseville',  'Carrollton', 'Coral Springs','Stamford',  'Simi Valley',  'Concord',  'Hartford',  'Kent',  'Lafayette',  'Midland',  'Surprise',  'Denton', 'Victorville', 'Evansville', 'Santa Clara' 'Abilene', 'Athens', 'Vallejo', 'Allentown', 'Norman', 'Beaumont', 'Murfreesboro', 'Ann Arbor', 'Springfield', 'Berkeley', 'Peoria', 'Provo', 'El Monte', 'Lansing', 'Fargo',  'Downey',  'Costa Mesa',  'Wilmington',  'Arvada',  'Inglewood',  'Miami Gardens',  'Carlsbad', 'Westminister', 'Rochester',  'Odessa',  'Manchester',  'Elgin',  'West Jordan',  'Round Rock',  'Clearwater',  'Waterbury', 'Gresham', 'Fairfield',  'Billings',  'Lowell',  'Ventura',  'Pueblo',  'High Point',  'West Covina',  'Richmond',  'Murrieta', 'Cambridge', 'Antioch',  'Temecula',  'Norwalk',  'Centennial',  'Everett',  'Palm Bay',  'Wichita Falls',  'Green Bay',  'Daly City', 'Burbank',  'Richardson',  'Pompano Beach',  'North Charleston',  'Broken Arrow',  'Boulder',  'West Palm Beach',  'Burbank',  'Richardson',  'Pompano Beach',  'North Charleston',  'Broken Arrow',  'Boulder',  'West Palm Beach',  'Burbank',  'Richardson',  'Pompano Beach',  'North Charleston',  'Broken Arrow',  'Boulder',  'West Palm Beach',  'Burbank',  'Richardson',  'Pompano Beach',  'North Charleston',  'Broken Arrow',  'Boulder',  'West Palm Beach', 'El Cajon', 'Davenport', 'Rialto','Edison',  'Las Cruces',  'San Mateo',  'Lewisville',  'South Bend',  'Lakeland', 'Erie', 'Woodbridge', 'Tyler', 'Pearland', 'College Station', 'Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Connecticut', 'Delaware', 'Florida', 'Georgia', 'Hawaii', 'Idaho', 'Illinois', 'Indiana', 'Iowa', 'Kansas', 'Kentucky', 'Louisiana', 'Maine', 'Maryland', 'Massachusetts', 'Michigan', 'Minnesota', 'Mississippi', 'Missouri', 'Montana', 'Nebraska', 'Nevada', 'New Hampshire', 'New Jersey', 'New Mexico', 'New York', 'North Carolina', 'North Dakota', 'Ohio', 'Oklahoma', 'Oregon', 'Pennsylvania', 'Rhode Island', 'South Carolina', 'South Dakota', 'Tennessee', 'Texas', 'Utah', 'Vermont', 'Virginia', 'Washington', 'West Virginia', 'Wisconsin', 'Wyoming']
+    if word in loc_list:
+        return True
+    return False
+
+def countries(word):
+    with codecs.open('countries_list.txt','r',encoding='utf8') as f:
+        text = f.read()
+  #  countries = open('countries_list.txt','r',UTF-8).read()
+    countries_list = text.split(", ")
+    if word in countries_list:
+        return True
+    return False
+
+def non_prez(word):
+    with codecs.open('famous_people.txt','r',encoding='utf8') as f:
+        text = f.read()
+    people_list = text.split(", ")
+    if word in people_list:
+        return True
+    return False
+
+def president(word):
+    with codecs.open('presidents.txt','r',encoding='utf8') as f:
+        text = f.read()
+    president_list = text.split(", ")
+    if word in president_list:
+        return True
+    return False
+
+
+# Extract features from data
+def w2f(sents,i,j,filename,freq):
+    """ -> list of features for a word """
+    w = sents[i][j][0] #current word
+    pos = sents[i][j][1] #POS of current word
+    f = [        
+        'bias', #non-contextual feature        
+        'w=' + w, #current word        
+        'w.istitle=%s' % w.istitle(), #first letter - capitalized
+        'pos=' + pos, # POS tag
+        'w.intitle=%s' % contained_in_title(w, filename), # w matches title
+        'w.lowtitle=%s' % lower_in_title(w, filename), # w lower matches title
+        'w.freq=%s' % frequency(w, freq), # freq of w        
+        'w.stopword=%s' % stop_word(w), # # stop word
+        'w.loc_ad=%s' % loc_ad(w), #find us cities and states
+        'w.countries_ad=%s' % countries(w), #is any country mentioned
+        'w.non_prez=%s' % non_prez(w), #is a famous non-president mentioned
+        'w.president=%s' % president(w), #is a president mentioned
+        ]
+        
+    # previous word features
+    if j>0:
+        pw = sents[i][j-1][0] #previous word
+        ppos = sents[i][j-1][1] #POS of previous word
+        f.extend([            
+            'pw=' + pw, # previous word            
+            'pw.istitle=%s' % pw.istitle(), #first letter - capitalized
+            'ppos=' + ppos, # POS tag
+            'pw.intitle=%s' % contained_in_title(pw, filename), # w matches title
+            'pw.lowtitle=%s' % lower_in_title(pw,filename), # w lower matches title
+            'pw.freq=%s' % frequency(pw, freq), # freq of w
+            'pw.stopword=%s' % stop_word(w), # # stop word
+            ])
+    else:        
+        f.append('BOS') #first word of a sentence
+
+    # next word features
+    if j<len(sents[i])-1:
+        nw = sents[i][j+1][0] #next word
+        npos = sents[i][j+1][1] #POS of next word
+        f.extend([            
+            'nw=' + nw, # previous word
+            'nw.istitle=%s' % nw.istitle(), #first letter - capitalized
+            'npos=' + npos, #POS tag
+            'nw.intitle=%s' % contained_in_title(nw, filename), # w matches title
+            'nw.lowtitle=%s' % lower_in_title(nw,filename), # w lower matches title
+            'nw.freq=%s' % frequency(nw, freq), # freq of w
+            'nw.stopword=%s' % stop_word(w), # # stop word
+            ])
+    else:        
+        f.append('EOS') # last word of a sentence
+
+    #if j>1: ...
+    #if j<len(sents[i])-2: ...
+    #if j>0 and j<len(sents[i])-1: ...
+    return f
+
+def s2f(sents,i,f,freq):
+    """ Extract features from a sentence """
+    return [w2f(sents,i,j,f,freq) for j in range(len(sents[i]))]
+
+
+def s2l(sents,i,f,freq):
+    """ Extract labels from a sentence for gold data """
+    return [str(l) for _,_,l in sents[i]]
+
+def s2w(sents,i,f,freq):
+    """ Extract words from a sentence """
+    return [w for w,_,_ in sents[i]]
+
+def d2f(sents,f,freq):
+    """ Extract features from a document """
+    return [s2f(sents,i,f,freq) for i in range(len(sents))]
+
+def d2l(sents,f,freq):
+    """ Extract labels from a document """
+    return [s2l(sents,i,f,freq) for i in range(len(sents))]
+
+def extract_features(data_dir,mode='train'):
+    """
+    -> extract features from a corpus/ dataset
+    mode = 'train'/'decode'
+    """
+    files = get_files(data_dir)
+    t0 = time.time()
+    features = list()
+    labels = list()
+    for f in files:
+        freq = get_frequencies(f)
+        if mode=='train':
+            sents = corpus_reader(f)
+            labels.extend(d2l(sents,f,freq))
+        elif mode=='decode':
+            sents = corpus_reader(f,tag='pos')
+        else:
+            print('Invalid mode!')
+            break
+        features.extend(d2f(sents,f,freq))       
+    dt = time.time() - t0
+    print('Total feature extraction time: %d seconds' % dt)
+    return features,labels   
+    
+if __name__ == "__main__":
+    data_dir = 'train'
+    df,dl = extract_features(data_dir)
+    save_data(df,'train_features.pkl')
+    save_data(dl,'train_labels.pkl')
+    lines = list()
+    for sf,sl in zip(df,dl):
+        for wf,wl in zip (sf,sl):
+            lines.append(' '.join(wf)+' '+wl+'\n')            
+    write_lines(lines,'train_features.txt')
+    print('\nSample features:\n')
+    for line in lines[:3]:
+        print(line)
+    
+    
